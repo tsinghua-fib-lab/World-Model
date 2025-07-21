@@ -2,6 +2,8 @@
 
 A curated list of awesome resources on World Models, based on the comprehensive survey "Understanding World or Predicting Future? A Comprehensive Survey of World Models".
 
+![Loading Outline](assets/outline.pdf "outline")
+
 ## News🔥
 
 * **[2024/11/21]** Initial release of our survey is available on [arXiv](https://arxiv.org/abs/2411.14499v1).
