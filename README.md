@@ -2,7 +2,7 @@
 
 A curated list of awesome resources on World Models, based on the comprehensive survey "Understanding World or Predicting Future? A Comprehensive Survey of World Models".
 
-## News
+## News🔥
 
 * **[2024/11/21]** Initial release of our survey is available on [arXiv](https://arxiv.org/abs/2411.14499v1).
 * **[2025/06/13]** Our survey paper "Understanding World or Predicting Future? A Comprehensive Survey of World Models" has been accepted by [ACM Computing Surveys](https://dl.acm.org/doi/abs/10.1145/3746449).
@@ -24,7 +24,7 @@ If this list helps your research, please ⭐ and cite:
 }
 ```
 
-## Table of Contents
+## Table of Contents 🍃
 
 * [1 Introduction & 2 Background](#1-introduction--2-background)
 * [3 Implicit Representation of the External World](#3-implicit-representation-of-the-external-world)
