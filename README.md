@@ -110,26 +110,3 @@ If this list helps your research, please ⭐ and cite:
 | [Learning to Model the World with Language](https://arxiv.org/abs/2308.01399) | arXiv 2023 | [![Website](https://img.shields.io/badge/Website-9cf)](https://dynalang.github.io/) |
 | [Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency](https://arxiv.org/abs/2309.17382) | arXiv 2023 | |
 | [Alfworld: Aligning text and embodied environments for interactive learning](https://openreview.net/forum?id=0IO2UCN-kDb) | OpenReview | [![Star](https://img.shields.io/github/stars/alfworld/alfworld.svg?style=social&label=Star)](https://github.com/alfworld/alfworld) |
-
-### 3.2 World Knowledge Learned by Models
-
-| Title | Pub. & Date | Code/Project URL |
-|---|---|---|
-| [Pre-trained language models as universal controllers](https://arxiv.org/abs/2307.13562) | arXiv 2023 | |
-| [Generalist agent](https://arxiv.org/abs/2205.06175) | arXiv 2022 | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.deepmind.com/blog/a-generalist-agent) |
-| [A comprehensive survey of visual-language pretraining](https://arxiv.org/abs/2301.12176) | arXiv 2023 | |
-| [Efficient planning in a compact latent action space](https://arxiv.org/abs/2402.13847) | arXiv 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://yangb0.github.io/calan/) |
-| [Beyond fixed policies: Behavior generation with scene-aware conditional policies](https://arxiv.org/abs/2304.09341) | arXiv 2023 | |
-| [Towards a universal model for control in multiple domains](https://arxiv.org/abs/2402.13847) | arXiv 2024 | |
-| [Gato: A generalist agent](https://arxiv.org/abs/2205.06175) | arXiv 2022 | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.deepmind.com/blog/a-generalist-agent) |
-| [A water world model for robotic exploration](https://ieeexplore.ieee.org/document/10160295) | IEEE 2023 | [![Website](https://img.shields.io/badge/Website-9cf)](https://general-navigation-models.github.io/) |
-| [From fixed to general-purpose policies: A review of generalist policies in reinforcement learning for robotics](https://arxiv.org/abs/2403.00742) | arXiv 2024 | |
-| [Virtualhome: Simulating household activities via programs](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf) | CVPR 2018 | [![Website](https://img.shields.io/badge/Website-9cf)](http://virtual-home.org/) |
-| [Beyond fixed policies: Behavior generation with scene-aware conditional policies](https://arxiv.org/abs/2304.09341) | arXiv 2023 | |
-| [Learning to Model the World with Language](https://arxiv.org/abs/2308.01399) | arXiv 2023 | [![Website](https://img.shields.io/badge/Website-9cf)](https://dynalang.github.io/) |
-| [Alfworld: Aligning text and embodied environments for interactive learning](https://openreview.net/forum?id=0IO2UCN-kDb) | OpenReview | [![Star](https://img.shields.io/github/stars/alfworld/alfworld.svg?style=social&label=Star)](https://github.com/alfworld/alfworld) |
-| [Generative agents: Interactive simulacra of human behavior](https://dl.acm.org/doi/10.1145/3586183.3606763) | UIST 2023 | [![Star](https://img.shields.io/github/stars/joonspk-research/generative_agents.svg?style=social&label=Star)](https://github.com/joonspk-research/generative_agents) |
-| [S3: Social-network Simulation System with Large Language Model-Empowered Agents](https://arxiv.org/abs/2307.14984) | arXiv 2023 | |
-| [Exploring large language models for communication in multi-agent cooperation](https://arxiv.org/abs/2402.04639) | arXiv 2024 | |
-| [A survey on intelligent agents based on large language models](https://arxiv.org/abs/2311.01802) | arXiv 2023 | |
-| [Mind agent: A comprehensive foundation agent for language-based task planning](https://arxiv.org/abs/2308.10091) | arXiv 2023 | [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/MindAgent.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/MindAgent) |
