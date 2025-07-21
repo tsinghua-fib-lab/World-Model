@@ -1,7 +1,13 @@
 # Awesome-World-Model [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- [News] The **World Models Survey** is now available on [arXiv](https://arxiv.org/abs/2411.14499).
-- [News] <span style="color:red;"> **Our survey is accepted by ACM Computing Surveys (CSUR).**</span>
+A curated list of awesome resources on World Models, based on the comprehensive survey "Understanding World or Predicting Future? A Comprehensive Survey of World Models".
+
+## News
+
+* **[2024/11/21]** Initial release of our survey is available on [arXiv](https://arxiv.org/abs/2411.14499v1).
+* **[2025/06/13]** Our survey paper "Understanding World or Predicting Future? A Comprehensive Survey of World Models" has been accepted by [ACM Computing Surveys](https://dl.acm.org/doi/abs/10.1145/3746449).
+* **[2025/06/25]** Second version of our survey is available on [arXiv](https://arxiv.org/abs/2411.14499).
+* **[2025/07/18]** Initial release of the Awesome-World-Model GitHub repository.
 
 ## Contact
 If you have any suggestions or find our work helpful, feel free to contact us  
@@ -15,63 +21,6 @@ If this list helps your research, please ⭐ and cite:
   author={Ding, Jingtao and Zhang, Yunke and Shang, Yu and Zhang, Yuheng and Zong, Zefang and Feng, Jie and Yuan, Yuan and Su, Hongyu and Li, Nian and Sukiennik, Nicholas and Xu, Fengli and Li, Yong},
   journal={ACM Computing Surveys},
   year={2025}
-}
-```
-
-## Table of Contents
-- [Background & Categorization](#background--categorization)
-- [Implicit Representation](#implicit-representation)
-- [Future Prediction](#future-prediction)
-- [Applications](#applications)
-  - [Autonomous Driving](#autonomous-driving)
-  - [Robotics](#robotics)
-  - [Social Simulacra](#social-simulacra)
-- [Open Problems](#open-problems)
-- [Benchmarks](#benchmarks)
-- [Contribute](#contribute)
-
-
-
-# Awesome-World-Model [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![arXiv](https://img.shields.io/badge/arXiv-2411.00114-b31b1b.svg)](https://arxiv.org/abs/2411.00114)
-
-A curated list of awesome resources on World Models, based on the comprehensive survey "Understanding World or Predicting Future? A Comprehensive Survey of World Models".
-
-## Authors
-
-* **Jingtao Ding** (Tsinghua University)
-* **Yunke Zhang** (Tsinghua University)
-* **Yu Shang** (Tsinghua University)
-* **Yuheng Zhang** (Tsinghua University)
-* **Zefang Zong** (Tsinghua University)
-* **Jie Feng** (Tsinghua University)
-* **Yuan Yuan** (Electronic Engineering, Tsinghua University)
-* **Hongyuan Su** (Tsinghua University)
-* **Nian Li** (Tsinghua University)
-* **Nicholas Sukiennik** (Tsinghua University)
-* **Fengli Xu** (Tsinghua University)
-* **Yong Li** (Tsinghua University)
-
-
-## News
-
-* **[2025/07/18]** Initial release of the Awesome-World-Model GitHub repository.
-* **[2025/06/13]** Our survey paper "Understanding World or Predicting Future? A Comprehensive Survey of World Models" has been accepted by ACM Computing Surveys.
-
-## Contact
-
-If you have any questions or suggestions, please feel free to open an issue or contact the authors.
-
-## Citation
-
-If you find our survey or this repository helpful, please consider citing our paper:
-
-```bibtex
-@article{ding2025understanding,
-  title={Understanding World or Predicting Future? A Comprehensive Survey of World Models},
-  author={Ding, Jingtao and Zhang, Yunke and Shang, Yu and Zhang, Yuheng and Zong, Zefang and Feng, Jie and Yuan, Yuan and Su, Hongyuan and Li, Nian and Sukiennik, Nicholas and Xu, Fengli and Li, Yong},
-  journal={ACM Computing Surveys},
-  year={2025},
-  publisher={ACM}
 }
 ```
 
