@@ -71,42 +71,42 @@ If this list helps your research, please ⭐ and cite:
 
 ## 3 Implicit Representation of the External World
 
+### 3.1 World Model in Decision Making
+
 | Title | Pub. & Date | Code/Project URL |
 |---|---|---|
-| [DreamerV3: Mastering diverse domains with world models](https://arxiv.org/abs/2301.04104) | arXiv 2023 | [![Star](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Star)](https://github.com/danijar/dreamerv3) |
-| [DreamerV2: Learning skillful behaviors from high-dimensional observations](https://arxiv.org/abs/2003.01016) | arXiv 2020 | [![Star](https://img.shields.io/github/stars/danijar/dreamerv2.svg?style=social&label=Star)](https://github.com/danijar/dreamerv2) |
-| [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) | ICLR 2016 | |
-| [World model based trajectory prediction with transformer](https://ieeexplore.ieee.org/document/10185918) | IEEE Trans. ITS 2023 | |
-| [Memory-augmented control with world models](https://arxiv.org/abs/2307.01639) | arXiv 2023 | |
-| [Deep reinforcement learning in a handful of trials using model-based value expansion](https://arxiv.org/abs/1805.12117) | ICLR 2018 | |
+| [Deep reinforcement learning in a handful of trials using probabilistic dynamics models](https://proceedings.neurips.cc/paper/2018/file/006f52e9102a8d3be2fe5614f42ba989-Paper.pdf) | NeurIPS 2018 | [![Star](https://img.shields.io/github/stars/kchua/handful-of-trials.svg?style=social&label=Star)](https://github.com/kchua/handful-of-trials) |
+| [PWM: Policy Learning with Multi-Task World Models](https://openreview.net/pdf?id=KKN4OFyzvN) | OpenReview | [![Website](https://img.shields.io/badge/Website-9cf)](https://imgeorgiev.com/pwm) |
 | [Recurrent world models facilitate policy evolution](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | NeurIPS 2018 | [![Website](https://img.shields.io/badge/Website-9cf)](https://worldmodels.github.io/) |
-| [Learning latent dynamics for planning from pixels](https://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf) | ICML 2019 | [![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/planet) |
-| [Dream to control: Learning behaviors by latent imagination](https://arxiv.org/abs/1912.01603) | ICLR 2020 | |
-| [Mastering atari with discrete world models](https://arxiv.org/abs/2010.02193) | ICLR 2021 | |
-| [Temporal difference learning for model-based reinforcement learning](https://arxiv.org/abs/1905.10906) | arXiv 2019 | |
-| [Deep reinforcement learning using model-based value expansion](https://arxiv.org/abs/1805.12117) | ICLR 2018 | |
-| [Model-based reinforcement learning from sparse rewards](https://arxiv.org/abs/2002.04949) | ICML 2020 | |
-| [Model-based deep reinforcement learning with an uncertainty-aware environment model](https://arxiv.org/abs/1802.05760) | ICML 2018 | |
-| [Efficient exploration in reinforcement learning with model-based uncertainty estimation](https://arxiv.org/abs/1802.08277) | ICML 2018 | |
-| [Model-based reinforcement learning with probabilistic ensembles](https://arxiv.org/abs/1802.03157) | ICLR 2019 | |
-| [When to trust your model: Model-based policy optimization](https://arxiv.org/abs/1906.08253) | NeurIPS 2019 | |
-| [Model-based reinforcement learning for robotics with latent state models](https://ieeexplore.ieee.org/document/9079986) | RAL 2020 | |
-| [Model-based reinforcement learning with probabilistic neural networks](https://arxiv.org/abs/1906.08253) | ICML 2019 | |
-| [Neural network dynamics for model-based deep reinforcement learning](https://arxiv.org/abs/1905.08867) | ICLR 2019 | |
-| [A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play](https://www.nature.com/articles/nature25760) | Nature 2018 | |
-| [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature16961) | Nature 2016 | |
-| [Reinforcement learning for motor control with neural networks](https://arxiv.org/abs/1905.10906) | ICML 2019 | |
-| [Monte Carlo tree search for deep reinforcement learning](https://arxiv.org/abs/1905.08867) | ICLR 2019 | |
-| [LLM-assisted robot planning with language-based world models](https://arxiv.org/abs/2307.03901) | arXiv 2023 | |
+| [Dream to control: Learning behaviors by latent imagination](https://arxiv.org/abs/1912.01603) | arXiv 2019 | [![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamer) |
+| [Leveraging pre-trained large language models to construct and utilize world models for model-based task planning](https://proceedings.neurips.cc/paper_files/paper/2023/file/a7f14143a825f3e0c036c641829e0839-Paper-Conference.pdf) | NeurIPS 2023 | [![Star](https://img.shields.io/github/stars/GuanSuns/LLMs-World-Models-for-Planning.svg?style=social&label=Star)](https://github.com/GuanSuns/LLMs-World-Models-for-Planning) |
+| [Mastering atari with discrete world models](https://arxiv.org/abs/2010.02193) | arXiv 2020 | [![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamerv2) |
+| [Mastering diverse control tasks through world models](https://www.nature.com/articles/s41586-024-07871-x) | Nature 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamerv3) |
+| [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://openreview.net/forum?id=Oxh5CstDJU) | OpenReview | [![Website](https://img.shields.io/badge/Website-9cf)](https://nicklashansen.github.io/td-mpc2) |
+| [When to trust your model: Model-based policy optimization](https://proceedings.neurips.cc/paper/2019/file/258be2de6eb6952aa35065474166379a-Paper.pdf) | NeurIPS 2019 | |
+| [Offline reinforcement learning as one big sequence modeling problem](https://proceedings.neurips.cc/paper/2021/file/099fe6b0b444c23836c4a5d07346082b-Paper.pdf) | NeurIPS 2021 | [![Star](https://img.shields.io/github/stars/jannerm/trajectory-transformer.svg?style=social&label=Star)](https://github.com/jannerm/trajectory-transformer) |
+| [Model predictive control](https://link.springer.com/book/10.1007/978-3-319-22592-7) | Springer | |
+| [Algorithmic framework for model-based deep reinforcement learning with theoretical guarantees](https://arxiv.org/abs/1807.03858) | arXiv 2018 | |
+| [Neural network dynamics for model-based deep reinforcement learning with model-free fine-tuning](https://ieeexplore.ieee.org/document/8460505) | IEEE 2018 | |
+| [A game theoretic framework for model based reinforcement learning](https://proceedings.mlr.press/v119/rajeswaran20a.html) | PMLR 2020 | [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/mbrl-game) |
+| [General agents need world models](https://arxiv.org/abs/2506.01622) | arXiv 2025 | |
+| [Mastering memory tasks with world models](https://arxiv.org/abs/2403.04253) | arXiv 2024 | |
+| [A generalist dynamics model for control](https://arxiv.org/abs/2305.10912) | arXiv 2023 | |
+| [Exploring model-based planning with policy networks](https://arxiv.org/abs/1906.08649) | arXiv 2019 | |
+| [Derivative-free optimization via classification](https://ojs.aaai.org/index.php/AAAI/article/view/10255) | AAAI | |
+| [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961) | Nature 2016 | |
+| [Mastering the game of go without human knowledge](https://www.nature.com/articles/nature24270) | Nature 2017 | |
+| [A0c: Alpha zero in continuous action space](https://arxiv.org/abs/1805.09613) | arXiv 2018 | |
+| [Value prediction network](https://proceedings.neurips.cc/paper/2017/file/d045c59a90d7587d8d671b5f5aec4e7c-Paper.pdf) | NeurIPS 2017 | |
+| [Probabilistic adaptation of text-to-video models](https://arxiv.org/abs/2306.01872) | arXiv 2023 | [![Website](https://img.shields.io/badge/Website-9cf)](https://prob-t2v.github.io/) |
 | [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) | arXiv 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://robodreamer.github.io/) |
-| [Vision-language world models for long-horizon robot manipulation](https://arxiv.org/abs/2404.09038) | arXiv 2024 | |
-| [Large language model-based multi-modal world model](https://arxiv.org/abs/2310.03816) | arXiv 2023 | |
-| [Can large language models be trained as world models?](https://arxiv.org/abs/2309.11717) | arXiv 2023 | |
-| [Mind agent: A comprehensive foundation agent for language-based task planning](https://arxiv.org/abs/2308.10091) | arXiv 2023 | [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/MindAgent.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/MindAgent) |
-| [LLM-based robotic task planning with world models](https://arxiv.org/abs/2403.00392) | arXiv 2024 | |
-| [S3: Social-network Simulation System with Large Language Model-Empowered Agents](https://arxiv.org/abs/2307.14984) | arXiv 2023 | |
-| [Generative world models for autonomous driving](https://arxiv.org/abs/2311.00287) | arXiv 2023 | |
-| [Virtualhome: Simulating household activities via interaction with objects and people](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pu_VirtualHome_Simulating_Household_Activities_via_Interaction_with_Objects_and_People_ICCV_2019_paper.pdf) | ICCV 2019 | |
-| [World-scale generative models for object-centric scene understanding](https://arxiv.org/abs/2403.01353) | arXiv 2024 | |
-| [LLM-driven task-oriented robot manipulation](https://arxiv.org/abs/2404.09038) | arXiv 2024 | |
-| [ALFWorld: Aligning text and embodied environments for learning agents](https://proceedings.mlr.press/v119/li20c/li20c.pdf) | ICML 2020 | [![Star](https://img.shields.io/github/stars/alfworld/alfworld.github.io.svg?style=social&label=Star)](https://github.com/alfworld/alfworld.github.io) |
+| [Discuss before moving: Visual language navigation via multi-expert discussions](https://ieeexplore.ieee.org/document/10565013) | IEEE 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/discussnav) |
+| [OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and Structured Representation](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_OVER-NAV_Elevating_Iterative_Vision-and-Language_Navigation_With_Open-Vocabulary_Detection_and_CVPR_2024_paper.pdf) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/GAN-Z/OVER-NAV.svg?style=social&label=Star)](https://github.com/GAN-Z/OVER-NAV) |
+| [RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_CVPR_2024_paper.pdf) | CVPR 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://rila-agent.github.io/) |
+| [Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models](https://arxiv.org/abs/2501.09686) | arXiv 2025 | |
+| [Position: LLMs can't plan, but can help planning in LLM-modulo frameworks](https://arxiv.org/abs/2402.01817) | arXiv 2024 | |
+| [Language models meet world models: Embodied experiences enhance language models](https://proceedings.neurips.cc/paper_files/paper/2023/file/206f20295c520334237c15815653b216-Paper-Conference.pdf) | NeurIPS 2023 | [![Star](https://img.shields.io/github/stars/E2WM/E2WM-NeurIPS23.svg?style=social&label=Star)](https://github.com/E2WM/E2WM-NeurIPS23) |
+| [Virtualhome: Simulating household activities via programs](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf) | CVPR 2018 | [![Website](https://img.shields.io/badge/Website-9cf)](http://virtual-home.org/) |
+| [Learning to Model the World with Language](https://arxiv.org/abs/2308.01399) | arXiv 2023 | [![Website](https://img.shields.io/badge/Website-9cf)](https://dynalang.github.io/) |
+| [Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency](https://arxiv.org/abs/2309.17382) | arXiv 2023 | |
+| [Alfworld: Aligning text and embodied environments for interactive learning](https://openreview.net/forum?id=0IO2UCN-kDb) | OpenReview | [![Star](https://img.shields.io/github/stars/alfworld/alfworld.svg?style=social&label=Star)](https://github.com/alfworld/alfworld) |
