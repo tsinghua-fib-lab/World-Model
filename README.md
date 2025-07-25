@@ -160,6 +160,24 @@ If this list helps your research, please ⭐ and cite:
 
 ### 4.2 World Model as Embodied Environment
 
+| Title | Pub. & Date | Code / Project URL |
+|---|---|---|
+| [Ai2-thor: An interactive 3d environment for visual ai](http://ai2thor.allenai.org) | arXiv 2017 | [GitHub](http://ai2thor.allenai.org) |
+| [Matterport3D: Learning from RGB-D Data in Indoor Environments](https://arxiv.org/abs/1709.06158) | arXiv 2017 | [GitHub](https://niessner.github.io/Matterport/) |
+| [Virtualhome: Simulating household activities via programs](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf) | CVPR 2018 | [GitHub](http://virtual-home.org/) |
+| [Habitat: A platform for embodied ai research](https://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf) | ICCV 2019 | [GitHub](https://aihabitat.org/) |
+| [Avlen: Audio-visual-language embodied navigation in 3d environments](https://proceedings.neurips.cc/paper_files/paper/2022/file/28f699175783a2c828ae74d53dd3da20-Paper-Conference.pdf) | NeurIPS 2022 | [GitHub](https://www.google.com/search?q=https://github.com/sudiptapaul/AVLEN) |
+| [ProcTHOR: Large-Scale Embodied AI Using Procedural Generation](https://proceedings.neurips.cc/paper_files/paper/2022/file/27c546ab1e4f1d7d638e6a8dfbad9a07-Paper-Conference.pdf) | NeurIPS 2022 | [GitHub](https://procthor.allenai.org/) |
+| [Anyhome: Open-vocabulary generation of structured and textured 3d homes](https://arxiv.org/abs/2312.06644) | arXiv 2023 | [GitHub](https://www.google.com/search?q=https://anyhome.github.io/) |
+| [LEGENT: Open Platform for Embodied Agents](https://arxiv.org/abs/2404.18243) | arXiv 2024 | [GitHub](https://github.com/thunlp/LEGENT) |
+| [Threedworld: A platform for interactive multi-modal physical simulation](https://arxiv.org/abs/2007.04954) | arXiv 2020 | [GitHub](https://github.com/threedworld-mit/tdw) |
+| [Minedojo: Building open-ended embodied agents with internet-scale knowledge](https://arxiv.org/abs/2206.08853) | arXiv 2022 | [GitHub](https://github.com/MineDojo/MineDojo) |
+| [EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment](https://arxiv.org/abs/2410.09604) | arXiv 2024 | [GitHub](https://www.google.com/search?q=https://embodied-city.github.io/) |
+| [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) | arXiv 2024 | [GitHub](https://sites.google.com/view/eva-public) |
+| [Streetscapes: Large-scale consistent street view generation using autoregressive video diffusion](https://arxiv.org/abs/2406.03578) | arXiv 2024 | [GitHub](https://boyangdeng.com/streetscapes/) |
+| [AVID: Adapting Video Diffusion Models to World Models](https://arxiv.org/abs/2410.12822) | arXiv 2024 | [GitHub](https://www.google.com/search?q=https://marcrigter.github.io/AVID/) |
+| [Recurrent world models facilitate policy evolution](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | NeurIPS 2018 | [GitHub](https://worldmodels.github.io/) |
+
 ## 5 Applications of World Models
 
 ### 5.1 Autonomous Driving
