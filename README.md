@@ -32,15 +32,14 @@ If this list helps your research, please ⭐ and cite:
 * [3 Implicit Representation of the External World](#3-implicit-representation-of-the-external-world)
     * [3.1 World Model in Decision Making](#31-world-model-decision-making)
     * [3.2 World Knowledge Learned by Models](#32-world-knowledge-learned)
-* [4 Future Predictions of the External World](#4-future-predictions-of-the-external-world)
-    * [4.1 What to Predict?](#41-what-to-predict)
-    * [4.2 How to Predict?](#42-how-to-predict)
+* [4 Future Prediction of the Physical World](#4-future-predictions-of-the-external-world)
+    * [4.1 World Model as Video Generation](#41-what-to-predict)
+    * [4.2 World Model as Embodied Environment](#42-how-to-predict)
 * [5 Applications of World Models](#5-applications-of-world-models)
-    * [5.1 World Models for Decision-Making and Control](#51-world-models-for-decision-making-and-control)
-    * [5.2 World Models for Generative Tasks](#52-world-models-for-generative-tasks)
-    * [5.3 World Models for Embodied Intelligence](#53-world-models-for-embodied-intelligence)
-* [6 Open Problems and Future Directions](#6-open-problems-and-future-directions)
-* [7 Conclusion](#7-conclusion)
+    * [5.1 Autonomous Driving](#51-world-models-for-decision-making-and-control)
+    * [5.2 Robots](#52-world-models-for-generative-tasks)
+    * [5.3 Social Simulacra](#53-world-models-for-embodied-intelligence)
+
 
 ## 1 Introduction & 2 Background
 
@@ -110,3 +109,61 @@ If this list helps your research, please ⭐ and cite:
 | [Learning to Model the World with Language](https://arxiv.org/abs/2308.01399) | arXiv 2023 | [![Website](https://img.shields.io/badge/Website-9cf)](https://dynalang.github.io/) |
 | [Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency](https://arxiv.org/abs/2309.17382) | arXiv 2023 | |
 | [Alfworld: Aligning text and embodied environments for interactive learning](https://openreview.net/forum?id=0IO2UCN-kDb) | OpenReview | [![Star](https://img.shields.io/github/stars/alfworld/alfworld.svg?style=social&label=Star)](https://github.com/alfworld/alfworld) |
+
+### 3.2 World Knowledge Learned by Models
+
+| Title | Pub. & Date | Code / Project URL |
+|---|---|---|
+| [Language Models Represent Space and Time](https://openreview.net/forum?id=vTf65j92F5) | ICLR 2024 | — |
+| [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750) | arXiv 2024 | — |
+| [GeoLLM: Extracting Geospatial Knowledge from Large Language Models](https://arxiv.org/abs/2310.06213) | arXiv 2023 | [GitHub](https://rohinmanvi.github.io/GeoLLM/) |
+| [Large language models are geographically biased](https://arxiv.org/abs/2402.02680) | arXiv 2024 | — |
+| [CityGPT: Empowering Urban Spatial Cognition of Large Language Models](https://arxiv.org/abs/2406.13948) | arXiv 2024 | [GitHub](https://github.com/tsinghua-fib-lab/CityGPT) |
+| [GPT4GEO: How a Language Model Sees the World’s Geography](https://arxiv.org/abs/2306.00020) | NeurIPS 2023 | — |
+| [CityBench: Evaluating the Capabilities of Large Language Model as World Model](https://arxiv.org/abs/2406.13945) | arXiv 2024 | [GitHub](https://github.com/tsinghua-fib-lab/CityGPT) |
+| [A Survey of Large Language Model-Powered Spatial Intelligence Across Scales](https://arxiv.org/abs/2504.09848) | arXiv 2025 | — |
+| [Automated construction of cognitive maps with visual predictive coding](https://www.nature.com/articles/s42256-024-00863-7) | Nature Machine Intelligence 2024 | — |
+| [Emergent Representations of Program Semantics in Language Models Trained on Programs](https://proceedings.mlr.press/v235/jin24a.html) | ICML 2024 | — |
+| [Does the chimpanzee have a theory of mind?](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/does-the-chimpanzee-have-a-theory-of-mind) | Behav. & Brain Sci. 1978 | — |
+| [Elements of World Knowledge (EWOK)](https://arxiv.org/abs/2405.09605) | arXiv 2024 | — |
+| [Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01962-z) | Nature Human Behaviour 2024 | — |
+| [LLMs achieve adult human performance on higher-order theory of mind tasks](https://arxiv.org/abs/2405.18870) | arXiv 2024 | — |
+| [COKE: A cognitive knowledge graph for machine theory of mind](https://aclanthology.org/2023.findings-acl.30/) | ACL 2023 | — |
+| [Think Twice: Perspective-Taking Improves LLM Theory-of-Mind](https://arxiv.org/abs/2311.10227) | arXiv 2023 | — |
+
+## 4 Future Prediction of the Physical World
+
+### 4.1 World Model as Video Generation
+
+| Title                                                                                                                    | Pub. & Date      | Code / Project URL                                                            |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------------------------------------------------------------------------- |
+| [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators)   | OpenAI Blog 2024 | —                                                                             |
+| [Sora: Creating video from text](https://openai.com/sora)                                                                | OpenAI 2024      | —                                                                             |
+| [Is Sora a world simulator? A comprehensive survey on general world models and beyond](https://arxiv.org/abs/2405.03520) | arXiv 2024       | —                                                                             |
+| [Sora as an AGI world model? A complete survey on text-to-video generation](https://arxiv.org/abs/2403.05131)            | arXiv 2024       | —                                                                             |
+| [How Far is Video Generation from World Model: A Physical Law Perspective](https://arxiv.org/abs/2411.02385)             | arXiv 2024       | —                                                                             |
+| [Do generative video models learn physical principles from watching videos?](https://arxiv.org/abs/2501.09038)           | arXiv 2025       | [Website](https://physics-iq.github.io/)                                      |
+| [Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://arxiv.org/abs/2405.18556)           | arXiv 2024       | [GitHub](https://github.com/Genesis-Embodied-AI/Genesis)                      |
+| [PhysGen: Rigid-body physics-grounded image-to-video generation](https://arxiv.org/abs/2403.11219)                       | ECCV 2024        | [Website](https://physgen.github.io/)                                         |
+| [NUWA-XL: Diffusion over Diffusion for Extremely Long Video Generation](https://arxiv.org/abs/2303.12346)                | arXiv 2023       | —                                                                             |
+| [Learning a 3D occupancy world model for autonomous driving](https://arxiv.org/abs/2311.16038)                           | arXiv 2023       | [Website](https://wenzhaozheng.com/occworld/)                                 |
+| [OccSora: 4D Occupancy Generation Models as World Simulators](https://arxiv.org/abs/2405.20337)                          | arXiv 2024       | [Website](https://leningwang.github.io/occsora/)                              |
+| [World model on million-length video and language with ring-attention](https://arxiv.org/abs/2402.08268)                 | arXiv 2024       | [Website](https://large-world-model.github.io/)                               |
+| [GAIA-1: A generative world model for autonomous driving](https://arxiv.org/abs/2309.17080)                              | arXiv 2023       | [Website](https://wayve.com/thinking/gaia-1-generative-ai-model-for-driving/) |
+| [DriveDreamer: Towards real-world-driven world models](https://arxiv.org/abs/2309.09777)                                 | arXiv 2023       | [GitHub](https://github.com/Tsinghua-MARS-Lab/DriveDreamer)                   |
+| [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845)       | arXiv 2024       | [GitHub](https://github.com/Tsinghua-MARS-Lab/DriveDreamer)                   |
+| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model](https://arxiv.org/abs/2311.17918)  | arXiv 2023       | [GitHub](https://github.com/OpenDriveLab/Drive-WM)                            |
+| [Vista: A Generalizable Driving World Model with High Fidelity](https://arxiv.org/abs/2405.17398)                        | arXiv 2024       | —                                                                             |
+| [WorldDreamer: Towards general world models for video generation](https://arxiv.org/abs/2401.09985)                      | arXiv 2024       | [Website](https://world-dreamer.github.io/)                                   |
+| [WorldGPT: a Sora-inspired video AI agent](https://arxiv.org/abs/2403.07944)                                             | arXiv 2024       | —                                                                             |
+
+
+### 4.2 World Model as Embodied Environment
+
+## 5 Applications of World Models
+
+### 5.1 Autonomous Driving
+
+### 5.2 Robots
+
+### 5.3 Social Simulacra
