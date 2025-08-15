@@ -260,7 +260,7 @@ If this list helps your research, please ⭐ and cite:
 | [OpenEQA: Embodied question answering in the era of foundation models](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) | CVPR 2024                        | [website](https://openeqa.github.io)                                                                                    |
 
 
-### 5.3 Social Simulacra
+### 5.3 Societal Intelligence
 
 | Title                                                                                                                                   | Pub. & Date | Code / Project URL                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------- |
@@ -281,4 +281,4 @@ If this list helps your research, please ⭐ and cite:
 | [Network Formation and Dynamics Among Multi-LLMs](https://arxiv.org/abs/2402.10659)                                                     | arXiv 2024  | [website](https://arxiv.org/abs/2402.10659)                     |
 | [Exploring large language models for communication games: An empirical study on werewolf](https://arxiv.org/abs/2309.04658)             | arXiv 2023  | [website](https://arxiv.org/abs/2309.04658)                     |
 | [Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114)                                          | arXiv 2024  | [website](https://arxiv.org/abs/2411.00114)                     |
-                |
+                
