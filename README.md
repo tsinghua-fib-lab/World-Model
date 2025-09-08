@@ -111,25 +111,38 @@ If this list helps your research, please ⭐ and cite:
 | [Alfworld: Aligning text and embodied environments for interactive learning](https://openreview.net/forum?id=0IO2UCN-kDb) | OpenReview | [![Star](https://img.shields.io/github/stars/alfworld/alfworld.svg?style=social&label=Star)](https://github.com/alfworld/alfworld) |
 
 ### 3.2 World Knowledge Learned by Models
-
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
-| [Language Models Represent Space and Time](https://openreview.net/forum?id=vTf65j92F5) | ICLR 2024 | — |
-| [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750) | arXiv 2024 | — |
-| [GeoLLM: Extracting Geospatial Knowledge from Large Language Models](https://arxiv.org/abs/2310.06213) | arXiv 2023 | [GitHub](https://rohinmanvi.github.io/GeoLLM/) |
-| [Large language models are geographically biased](https://arxiv.org/abs/2402.02680) | arXiv 2024 | — |
-| [CityGPT: Empowering Urban Spatial Cognition of Large Language Models](https://arxiv.org/abs/2406.13948) | arXiv 2024 | [GitHub](https://github.com/tsinghua-fib-lab/CityGPT) |
-| [GPT4GEO: How a Language Model Sees the World’s Geography](https://arxiv.org/abs/2306.00020) | NeurIPS 2023 | — |
-| [CityBench: Evaluating the Capabilities of Large Language Model as World Model](https://arxiv.org/abs/2406.13945) | arXiv 2024 | [GitHub](https://github.com/tsinghua-fib-lab/CityGPT) |
-| [A Survey of Large Language Model-Powered Spatial Intelligence Across Scales](https://arxiv.org/abs/2504.09848) | arXiv 2025 | — |
-| [Automated construction of cognitive maps with visual predictive coding](https://www.nature.com/articles/s42256-024-00863-7) | Nature Machine Intelligence 2024 | — |
-| [Emergent Representations of Program Semantics in Language Models Trained on Programs](https://proceedings.mlr.press/v235/jin24a.html) | ICML 2024 | — |
 | [Does the chimpanzee have a theory of mind?](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/does-the-chimpanzee-have-a-theory-of-mind) | Behav. & Brain Sci. 1978 | — |
-| [Elements of World Knowledge (EWOK)](https://arxiv.org/abs/2405.09605) | arXiv 2024 | — |
-| [Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01962-z) | Nature Human Behaviour 2024 | — |
+| [GPT4GEO: How a Language Model Sees the World’s Geography](https://arxiv.org/abs/2306.00020) | FMDM@NeurIPS 2023 | — |
 | [LLMs achieve adult human performance on higher-order theory of mind tasks](https://arxiv.org/abs/2405.18870) | arXiv 2024 | — |
-| [COKE: A cognitive knowledge graph for machine theory of mind](https://aclanthology.org/2023.findings-acl.30/) | ACL 2023 | — |
-| [Think Twice: Perspective-Taking Improves LLM Theory-of-Mind](https://arxiv.org/abs/2311.10227) | arXiv 2023 | — |
+| [COKE: A cognitive knowledge graph for machine theory of mind](https://aclanthology.org/2024.acl-long.848/) | ACL 2024 | [![Star](https://img.shields.io/github/stars/jincenziwu/COKE.svg?style=social&label=Star)](https://github.com/jincenziwu/COKE) |
+| [Think Twice: Perspective-Taking Improves LLM Theory-of-Mind](https://arxiv.org/abs/2311.10227) | ACL 2024 | [![Star](https://img.shields.io/github/stars/shawnsihyunlee/simulatedtom.svg?style=social&label=Star)](https://github.com/shawnsihyunlee/simulatedtom) |
+| [Language Models Represent Space and Time](https://openreview.net/forum?id=vTf65j92F5) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/wesg52/world-models.svg?style=social&label=Star)](https://github.com/wesg52/world-models) |
+| [GeoLLM: Extracting Geospatial Knowledge from Large Language Models](https://arxiv.org/abs/2310.06213) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/rohinmanvi/GeoLLM.svg?style=social&label=Star)](https://github.com/rohinmanvi/GeoLLM) |
+| [Large language models are geographically biased](https://arxiv.org/abs/2402.02680) | ICML 2024 | [![Star](https://img.shields.io/github/stars/rohinmanvi/GeoLLM.svg?style=social&label=Star)](https://github.com/rohinmanvi/GeoLLM) |
+| [Emergent Representations of Program Semantics in Language Models Trained on Programs](https://proceedings.mlr.press/v235/jin24a.html) | ICML 2024 | [![Star](https://img.shields.io/github/stars/charlesjin/emergent-semantics.svg?style=social&label=Star)](https://github.com/charlesjin/emergent-semantics) |
+| [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages](https://arxiv.org/abs/2406.09948) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/nlee0212/BLEnD.svg?style=social&label=Star)](https://github.com/nlee0212/BLEnD) |
+| [SafeWorld: Geo-Diverse Safety Alignment](https://arxiv.org/abs/2412.06483) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/PlusLabNLP/SafeWorld.svg?style=social&label=Star)](https://github.com/PlusLabNLP/SafeWorld) |
+| [EAI: Emotional Decision-Making of LLMs in Strategic Games and Ethical Dilemmas](https://openreview.net/forum?id=8aAaYEwNR4) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/AIRI-Institute/EAI-Framework.svg?style=social&label=Star)](https://github.com/AIRI-Institute/EAI-Framework) |
+| [Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01882-z) | Nature Human Behaviour 2024 | [Website](https://osf.io/j3vhq) |
+| [Automated construction of cognitive maps with visual predictive coding](https://www.nature.com/articles/s42256-024-00863-1) | Nature Machine Intelligence 2024 | [![Star](https://img.shields.io/github/stars/jgornet/predictive-coding-recovers-maps.svg?style=social&label=Star)](https://github.com/jgornet/predictive-coding-recovers-maps) |
+| [Evaluating Large Language Models in Theory of Mind Tasks](https://www.pnas.org/doi/10.1073/pnas.2405460121) | PNAS 2024 | [Website](https://osf.io/csdhb/) |
+| [Elements of World Knowledge (EWOK)](https://arxiv.org/abs/2405.09605) | Transactions of the ACL 2025 | [Website](https://ewok-core.github.io/) |
+| [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750) | Entropy 2025 | [![Star](https://img.shields.io/github/stars/ejmichaud/feature-geometry.svg?style=social&label=Star)](https://github.com/ejmichaud/feature-geometry) |
+| [AgentMove: A large language model based agentic framework for zero-shot next location prediction](https://arxiv.org/abs/2408.13986) | NAACL 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentMove.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/AgentMove) |
+| [CityGPT: Empowering Urban Spatial Cognition of Large Language Models](https://arxiv.org/abs/2406.13948) | KDD 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/CityGPT.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/CityGPT) |
+| [CityBench: Evaluating the Capabilities of Large Language Model as World Model](https://arxiv.org/abs/2406.13945) | KDD 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/CityBench.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/CityBench) |
+| [LocalGPT: Benchmarking and Advancing Large Language Models for Local Life Services](https://www.arxiv.org/abs/2506.02720) | KDD 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/LocalEval.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/LocalEval) |
+| [UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence](https://arxiv.org/abs/2506.23219) | ICCV 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/UrbanLLaVA.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/UrbanLLaVA) |
+| [Open-Set Living Need Prediction with Large Language Models](https://arxiv.org/abs/2506.02713) | ACL 2025 Findings | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/PIGEON.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/PIGEON) |
+| [Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation](https://arxiv.org/abs/2506.21876) | ACL 2025 Findings | [Website](https://wm-abench.maitrix.org/) |
+| [Mitigating Geospatial Knowledge Hallucination in Large Language Models: Benchmarking and Dynamic Factuality Aligning](https://arxiv.org/abs/2507.19586) | EMNLP 2025 Findings |[![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/GeospatialHallucination.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/GeospatialHallucination) |
+| [GPS as a Control Signal for Image Generation](https://arxiv.org/abs/2501.12390) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/cfeng16/GPS2Pix.svg?style=social&label=Star)](https://github.com/cfeng16/GPS2Pix) |
+| [All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages](https://arxiv.org/abs/2411.16508) | CVPR 2025 | [Website](https://mbzuai-oryx.github.io/ALM-Bench/) |
+| [Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models](https://arxiv.org/abs/2502.08636) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/XingruiWang/Spatial457.svg?style=social&label=Star)](https://github.com/XingruiWang/Spatial457) |
+| [A Survey of Large Language Model-Powered Spatial Intelligence Across Scales](https://arxiv.org/abs/2504.09848) | arXiv 2025 | — |
+| [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](https://arxiv.org/abs/2506.16898) | arXiv 2025 | — |
 
 ## 4 Future Prediction of the Physical World
 
