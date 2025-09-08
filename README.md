@@ -108,7 +108,11 @@ If this list helps your research, please ⭐ and cite:
 | [Virtualhome: Simulating household activities via programs](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf) | CVPR 2018 | [![Website](https://img.shields.io/badge/Website-9cf)](http://virtual-home.org/) |
 | [Learning to Model the World with Language](https://arxiv.org/abs/2308.01399) | arXiv 2023 | [![Website](https://img.shields.io/badge/Website-9cf)](https://dynalang.github.io/) |
 | [Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency](https://arxiv.org/abs/2309.17382) | arXiv 2023 | |
-| [Alfworld: Aligning text and embodied environments for interactive learning](https://openreview.net/forum?id=0IO2UCN-kDb) | OpenReview | [![Star](https://img.shields.io/github/stars/alfworld/alfworld.svg?style=social&label=Star)](https://github.com/alfworld/alfworld) |
+| [Alfworld: Aligning text and embodied environments for interactive learning](https://arxiv.org/abs/2010.03768) | ICLR 2021 | [![Star](https://img.shields.io/github/stars/alfworld/alfworld.svg?style=social&label=Star)](https://github.com/alfworld/alfworld) |
+| [Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents](https://arxiv.org/abs/2411.06559) | EMNLP 2024 | [![Star](https://img.shields.io/github/stars/OSU-NLP-Group/WebDreamer.svg?style=social&label=Star)](https://github.com/OSU-NLP-Group/WebDreamer) |
+| [Agent Planning with World Knowledge Model](https://arxiv.org/abs/2405.14205) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/zjunlp/WKM.svg?style=social&label=Star)](https://github.com/zjunlp/WKM) |
+| [WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment](https://arxiv.org/abs/2402.12275) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/haotang1995/WorldCoder.svg?style=social&label=Star)](https://github.com/haotang1995/WorldCoder) |
+| [Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](https://arxiv.org/abs/2410.13232) | ICLR 2025 | [![Star](https://img.shields.io/github/stars/kyle8581/WMA-Agents.svg?style=social&label=Star)](https://github.com/kyle8581/WMA-Agents) |
 
 ### 3.2 World Knowledge Learned by Models
 | Title | Pub. & Date | Code / Project URL |
@@ -141,8 +145,10 @@ If this list helps your research, please ⭐ and cite:
 | [GPS as a Control Signal for Image Generation](https://arxiv.org/abs/2501.12390) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/cfeng16/GPS2Pix.svg?style=social&label=Star)](https://github.com/cfeng16/GPS2Pix) |
 | [All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages](https://arxiv.org/abs/2411.16508) | CVPR 2025 | [Website](https://mbzuai-oryx.github.io/ALM-Bench/) |
 | [Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models](https://arxiv.org/abs/2502.08636) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/XingruiWang/Spatial457.svg?style=social&label=Star)](https://github.com/XingruiWang/Spatial457) |
+| [Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://arxiv.org/abs/2412.14171) | CVPR 2025 | [Website](https://vision-x-nyu.github.io/thinking-in-space.github.io/) |
 | [A Survey of Large Language Model-Powered Spatial Intelligence Across Scales](https://arxiv.org/abs/2504.09848) | arXiv 2025 | — |
 | [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](https://arxiv.org/abs/2506.16898) | arXiv 2025 | — |
+| [Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models](https://arxiv.org/abs/2506.14674) | arXiv 2025 | — |
 
 ## 4 Future Prediction of the Physical World
 
