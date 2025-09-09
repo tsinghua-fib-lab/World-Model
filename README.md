@@ -240,8 +240,18 @@ If this list helps your research, please ⭐ and cite:
 
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
+| [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/facebookresearch/open-eqa.svg?style=social&label=Star)](https://github.com/facebookresearch/open-eqa) |
 | [RoboScape: Physics-informed Embodied World Model](https://arxiv.org/abs/2506.23135) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/RoboScape.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/RoboScape) |
 | [TesserAct: Learning 4D Embodied World Models](https://arxiv.org/abs/2504.20995) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/UMass-Embodied-AGI/TesserAct.svg?style=social&label=Star)](https://github.com/UMass-Embodied-AGI/TesserAct) |
+| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/pdf/2506.09985) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
+| [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) | ICML 2025 | [![Star](https://img.shields.io/github/stars/roboterax/video-prediction-policy.svg?style=social&label=Star)](https://github.com/roboterax/video-prediction-policy) |
+| [DreamGen: Unlocking Generalization in Robot Learning through Video World Models](https://arxiv.org/abs/2505.12705) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/NVIDIA/GR00T-Dreams.svg?style=social&label=Star)](https://github.com/NVIDIA/GR00T-Dreams) |
+| [EnerVerse-AC: Envisioning Embodied Environments with Action Condition](https://arxiv.org/abs/2505.09723) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/AgibotTech/EnerVerse-AC.svg?style=social&label=Star)](https://github.com/AgibotTech/EnerVerse-AC) |
+| [Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](https://arxiv.org/abs/2508.05635v1) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/AgibotTech/Genie-Envisioner.svg?style=social&label=Star)](https://github.com/AgibotTech/Genie-Envisioner) |
+| [Vidar: Embodied Video Diffusion Model for Generalist Bimanual Manipulation](https://arxiv.org/abs/2507.12898) | arXiv 2025 | - |
+
+
+
 
 
 
