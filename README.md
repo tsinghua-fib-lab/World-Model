@@ -238,25 +238,11 @@ If this list helps your research, please ⭐ and cite:
 
 ### 5.2 Robots
 
-| Title                                                                                                                                                                                                                          | Pub. & Date                      | Code / Project URL                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- 
+| Title | Pub. & Date | Code / Project URL |
+|---|---|---|
+| [RoboScape: Physics-informed Embodied World Model](https://arxiv.org/abs/2506.23135) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/RoboScape.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/RoboScape) |
+| [TesserAct: Learning 4D Embodied World Models](https://arxiv.org/abs/2504.20995) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/UMass-Embodied-AGI/TesserAct.svg?style=social&label=Star)](https://github.com/UMass-Embodied-AGI/TesserAct) |
 
-| [RoboCraft: Learning to see, simulate, and shape elasto-plastic objects in 3D with graph networks](https://journals.sagepub.com/doi/10.1177/02783649231224167)                                                                 | IJRR 2024                        | [website](https://robocraft-3d.github.io)                                                                             
-|
-
-| [GenSim2: Scaling robot data generation with multi-modal and reasoning LLMs](https://arxiv.org/abs/2410.03645)                                                                                                                 | arXiv 2024                       | [website](https://gensim2.github.io)                                                                                    |
-
-| [Gensim: Generating robotic simulation tasks via large language models](https://arxiv.org/abs/2310.01361)                                                                                                                      | arXiv 2023                       | [website](https://gensim-robot.github.io)                                                                               |
-
-| [Learning universal policies via text-guided video generation](https://arxiv.org/abs/2302.00111)                                                                                                                               | arXiv 2023                       | [website](https://universal-policy.github.io)                                                                           |
-
-| [Video prediction models as rewards for reinforcement learning](https://openreview.net/forum?id=HWNl9PAYIP)                                                                                                                    | NeurIPS 2024                     | [website](https://ViperRL.com)                                                                                          |
-
-| [GR-2: A generative video-language-action model with web-scale knowledge for robot manipulation](https://arxiv.org/abs/2410.06158)                                                                                             | arXiv 2024                       | [website](https://gr2-manipulation.github.io)                                                                           |
-
-| [IRASim: Learning interactive real-robot action simulators](https://arxiv.org/abs/2406.14540)                                                                                                                                  | arXiv 2024                       | [website](https://interactive-robot-action-sim.github.io)                                                               |
-
-| [DayDreamer: World models for physical robot learning](https://proceedings.mlr.press/v229/wu23a.html)                                                                                                                          | ICML 2023                        | [website](https://danijar.com/daydreamer)                                                                               |
 
 
 ### 5.3 Societal Intelligence
