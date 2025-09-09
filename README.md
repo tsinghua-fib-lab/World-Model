@@ -181,7 +181,7 @@ If this list helps your research, please ⭐ and cite:
 
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
-| [Holodeck: Language guided generation of 3d embodied ai environments]([http://ai2thor.allenai.org](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.pdf)) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social&label=Star)](https://github.com/allenai/Holodeck) |
+| [Holodeck: Language guided generation of 3d embodied ai environments](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Holodeck_Language_Guided_Generation_of_3D_Embodied_AI_Environments_CVPR_2024_paper.pdf) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social&label=Star)](https://github.com/allenai/Holodeck) |
 | [GRUtopia: Dream General Robots in a City at Scale](https://arxiv.org/abs/2407.10943) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/InternRobotics/InternUtopia.svg?style=social&label=Star)](https://github.com/InternRobotics/InternUtopia) |
 | [Anyhome: Open-vocabulary generation of structured and textured 3d homes](https://arxiv.org/abs/2312.06644) | ECCV 2024 | [![Star](https://img.shields.io/github/stars/FreddieRao/anyhome_github.svg?style=social&label=Star)](https://github.com/FreddieRao/anyhome_github) |
 | [LEGENT: Open Platform for Embodied Agents](https://arxiv.org/abs/2404.18243) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/thunlp/LEGENT.svg?style=social&label=Star)](https://github.com/thunlp/LEGENT) |
@@ -195,7 +195,6 @@ If this list helps your research, please ⭐ and cite:
 | [AVID: Adapting Video Diffusion Models to World Models](https://arxiv.org/abs/2410.12822) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/microsoft/causica.svg?style=social&label=Star)](https://github.com/microsoft/causica/tree/main/research_experiments/avid) |
 | [Pandora: Towards General World Model with Natural Language Actions and Video States](https://arxiv.org/abs/2406.09455) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Star)](https://github.com/maitrix-org/Pandora) |
 | [RoboScape: Physics-informed Embodied World Model](https://arxiv.org/abs/2506.23135) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/RoboScape.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/RoboScape) |
-| [TesserAct: Learning 4D Embodied World Models](https://arxiv.org/abs/2504.20995) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/UMass-Embodied-AGI/TesserAct.svg?style=social&label=Star)](https://github.com/UMass-Embodied-AGI/TesserAct) |
 | [TesserAct: Learning 4D Embodied World Models](https://arxiv.org/abs/2504.20995) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/UMass-Embodied-AGI/TesserAct.svg?style=social&label=Star)](https://github.com/UMass-Embodied-AGI/TesserAct) |
 
 ## 5 Applications of World Models
