@@ -199,7 +199,9 @@ If this list helps your research, please ⭐ and cite:
 
 ## 5 Applications of World Models
 
-### 5.1 Autonomous Driving
+### 5.1 Urban Intelligence
+
+##### Autonomous Driving
 
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
@@ -235,6 +237,28 @@ If this list helps your research, please ⭐ and cite:
 | [UrbanWorld: An urban world model for 3D city generation](https://arxiv.org/abs/2407.11965) | arXiv 2024 | [website](https://urban-world-model.github.io) |
 | [Streetscapes: Large-scale consistent street view generation using autoregressive video diffusion](https://arxiv.org/abs/2406.03578) | arXiv 2024 | [website](https://boyangdeng.com/streetscapes) |
 | [Recurrent world models facilitate policy evolution](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | NeurIPS 2018 | [website](https://worldmodels.github.io) |
+
+##### Autonomous Logistics & Urban Analytics
+| Title | Pub. & Date | Code / Project URL |
+|---|---|---|
+| [Navigation World Models](https://arxiv.org/abs/2412.03572) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Star)](https://github.com/facebookresearch/nwm) |
+| [Towards Autonomous Micromobility through Scalable Urban Simulation](https://arxiv.org/abs/2505.00690) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/metadriverse/urban-sim.svg?style=social&label=Star)](https://github.com/metadriverse/urban-sim) |
+| [Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation](https://arxiv.org/abs/2501.06693) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/Vid2Sim/Vid2Sim.svg?style=social&label=Star)](https://github.com/Vid2Sim/Vid2Sim) |
+| [CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos](https://arxiv.org/abs/2411.17820) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/ai4ce/CityWalker.svg?style=social&label=Star)](https://github.com/ai4ce/CityWalker) |
+| [AirScape: An Aerial Generative World Model with Motion Controllability](https://arxiv.org/abs/2507.08885) | ACM MM 2025 | — |
+| [CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory](https://arxiv.org/abs/2505.05622) | ACL 2025 | [![Star](https://img.shields.io/github/stars/EmbodiedCity/CityNavAgent.code.svg?style=social&label=Star)](https://github.com/EmbodiedCity/CityNavAgent.code) |
+| [CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space](https://arxiv.org/abs/2502.12532) | EMNLP 2025 | [![Star](https://img.shields.io/github/stars/BiluYong/CityEQA.svg?style=social&label=Star)](https://github.com/BiluYong/CityEQA) |
+| [UrbanVideo-Bench: Benchmarking Vision-Language Models on Embodied Intelligence with Video Data in Urban Spaces](https://arxiv.org/abs/2503.06157) | ACL 2025 | [![Star](https://img.shields.io/github/stars/EmbodiedCity/UrbanVideo-Bench.code.svg?style=social&label=Star)](https://github.com/EmbodiedCity/UrbanVideo-Bench.code) |
+| [GeoLLM: Extracting Geospatial Knowledge from Large Language Models](https://arxiv.org/abs/2310.06213) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/rohinmanvi/GeoLLM.svg?style=social&label=Star)](https://github.com/rohinmanvi/GeoLLM) |
+| [CityGPT: Empowering Urban Spatial Cognition of Large Language Models](https://arxiv.org/abs/2406.13948) | KDD 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/CityGPT.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/CityGPT) |
+| [UrbanLLaVA: A Multi-modal Large Language Model for Urban Intelligence](https://arxiv.org/abs/2506.23219) | ICCV 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/UrbanLLaVA.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/UrbanLLaVA) |
+| [GPS as a Control Signal for Image Generation](https://arxiv.org/abs/2501.12390) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/cfeng16/GPS2Pix.svg?style=social&label=Star)](https://github.com/cfeng16/GPS2Pix) |
+| [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](https://arxiv.org/abs/2506.16898) | arXiv 2025 | — |
+| [AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction](https://aclanthology.org/2025.naacl-long.61/) | NAACL 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentMove.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/AgentMove) |
+| [CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation](https://arxiv.org/abs/2506.13599) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/CAMS.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/CAMS) |
+| [Open-Set Living Need Prediction with Large Language Models](https://arxiv.org/abs/2506.02713) | ACL 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/PIGEON.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/PIGEON) |
+
+
 
 ### 5.2 Robots
 
