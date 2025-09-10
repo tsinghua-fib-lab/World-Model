@@ -199,7 +199,47 @@ If this list helps your research, please ⭐ and cite:
 
 ## 5 Applications of World Models
 
-### 5.1 Urban Intelligence
+### 5.1 Game Intelligence  
+
+| Title                                                        | Pub. & Date | Code / Project URL                                           |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| [World and Human Action Models towards Gameplay Ideation](https://www.nature.com/articles/s41586-025-08600-3.pdf) | Nature 2025 | -                                                            |
+| [GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/pdf/2501.08325) | ICCV 2025   | [![Star](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Star)](https://github.com/KwaiVGI/GameFactory) |
+| [Unbounded: A Generative Infinite Game of Character Life Simulation](https://arxiv.org/pdf/2410.18975) | CVPR 2025   | [Website](https://generative-infinite-game.github.io/)       |
+| [GameGen-𝕏: Interactive Open-world Game Video Generation](https://arxiv.org/pdf/2411.00769) | ICLR 2025   | [![Star](https://img.shields.io/github/stars/GameGen-X/GameGen-X.svg?style=social&label=Star)](https://github.com/GameGen-X/GameGen-X) |
+| [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/pdf/2408.14837?) | ICLR 2025   | [Website](https://gamengen.github.io/)                       |
+| [Exploration-Driven Generative Interactive Environments](https://arxiv.org/pdf/2506.09985) | ICLR 2025   | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
+| [Matrix-Game: Interactive World Foundation Model](https://arxiv.org/pdf/2506.18701) | arXiv 2025  | [![Star](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game.svg?style=social&label=Star)](https://github.com/SkyworkAI/Matrix-Game) |
+| [Mineworld: a Real-time and Open-source Interactive World Model on Minecraft](https://arxiv.org/pdf/2504.08388?) | arXiv 2025  | [![Star](https://img.shields.io/github/stars/microsoft/MineWorld.svg?style=social&label=Star)](https://github.com/microsoft/MineWorld) |
+| [Model as a Game: On Numerical and Spatial Consistency for Generative Games](https://arxiv.org/pdf/2503.21172?) | arXiv 2025  | -                                                            |
+
+
+
+### 5.2 Embodied Intelligence
+
+| Title                                                        | Pub. & Date  | Code / Project URL                                           |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024    | [![Star](https://img.shields.io/github/stars/facebookresearch/open-eqa.svg?style=social&label=Star)](https://github.com/facebookresearch/open-eqa) |
+| [iVideoGPT: Interactive VideoGPTs are Scalable World Models](https://arxiv.org/abs/2405.15223) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/thuml/iVideoGPT.svg?style=social&label=Star)](https://github.com/thuml/iVideoGPT) |
+| [IRASim: A Fine-Grained World Model for Robot Manipulation](https://arxiv.org/abs/2406.14540) | ICCV 2025    | [![Star](https://img.shields.io/github/stars/bytedance/IRASim.svg?style=social&label=Star)](https://github.com/bytedance/IRASim) |
+| [RoboScape: Physics-informed Embodied World Model](https://arxiv.org/abs/2506.23135) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/RoboScape.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/RoboScape) |
+| [TesserAct: Learning 4D Embodied World Models](https://arxiv.org/abs/2504.20995) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/UMass-Embodied-AGI/TesserAct.svg?style=social&label=Star)](https://github.com/UMass-Embodied-AGI/TesserAct) |
+| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/pdf/2506.09985) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
+| [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) | ICML 2025    | [![Star](https://img.shields.io/github/stars/roboterax/video-prediction-policy.svg?style=social&label=Star)](https://github.com/roboterax/video-prediction-policy) |
+| [DreamGen: Unlocking Generalization in Robot Learning through Video World Models](https://arxiv.org/abs/2505.12705) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/NVIDIA/GR00T-Dreams.svg?style=social&label=Star)](https://github.com/NVIDIA/GR00T-Dreams) |
+| [EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](https://arxiv.org/abs/2501.01895) | arXiv 2025   | -                                                            |
+| [EnerVerse-AC: Envisioning Embodied Environments with Action Condition](https://arxiv.org/abs/2505.09723) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/AgibotTech/EnerVerse-AC.svg?style=social&label=Star)](https://github.com/AgibotTech/EnerVerse-AC) |
+| [Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](https://arxiv.org/abs/2508.05635v1) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/AgibotTech/Genie-Envisioner.svg?style=social&label=Star)](https://github.com/AgibotTech/Genie-Envisioner) |
+| [Vidar: Embodied Video Diffusion Model for Generalist Bimanual Manipulation](https://arxiv.org/abs/2507.12898) | arXiv 2025   | -                                                            |
+| [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/alibaba-damo-academy/WorldVLA.svg?style=social&label=Star)](https://github.com/alibaba-damo-academy/WorldVLA) |
+| [ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model](https://arxiv.org/pdf/2506.19842) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/April-Yz/ManiGaussian_Bimanual.svg?style=social&label=Star)](https://github.com/April-Yz/ManiGaussian_Bimanual) |
+| [ORV: 4D Occupancy-centric Robot Video Generation](https://arxiv.org/abs/2506.03079) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/OrangeSodahub/ORV.svg?style=social&label=Star)](https://github.com/OrangeSodahub/ORV) |
+| [GWM: Towards Scalable Gaussian World Models for Robotic Manipulation](https://arxiv.org/pdf/2508.17600) | ICCV 2025    | -                                                            |
+| [WorldEval: World Model as Real-World Robot Policies Evaluator](https://arxiv.org/abs/2505.19017) | arXiv 2025   | [![Star](https://img.shields.io/github/stars/liyaxuanliyaxuan/Worldeval.svg?style=social&label=Star)](https://github.com/liyaxuanliyaxuan/Worldeval) |
+
+
+
+### 5.3 Urban Intelligence
 
 ##### Autonomous Driving
 
@@ -260,34 +300,8 @@ If this list helps your research, please ⭐ and cite:
 
 
 
-### 5.2 Robots
 
-| Title | Pub. & Date | Code / Project URL |
-|---|---|---|
-| [OpenEQA: Embodied Question Answering in the Era of Foundation Models](https://open-eqa.github.io/assets/pdfs/paper.pdf) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/facebookresearch/open-eqa.svg?style=social&label=Star)](https://github.com/facebookresearch/open-eqa) |
-| [iVideoGPT: Interactive VideoGPTs are Scalable World Models](https://arxiv.org/abs/2405.15223) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/thuml/iVideoGPT.svg?style=social&label=Star)](https://github.com/thuml/iVideoGPT) |
-| [IRASim: A Fine-Grained World Model for Robot Manipulation](https://arxiv.org/abs/2406.14540) | ICCV 2025 | [![Star](https://img.shields.io/github/stars/bytedance/IRASim.svg?style=social&label=Star)](https://github.com/bytedance/IRASim) |
-| [RoboScape: Physics-informed Embodied World Model](https://arxiv.org/abs/2506.23135) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/RoboScape.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/RoboScape) |
-| [TesserAct: Learning 4D Embodied World Models](https://arxiv.org/abs/2504.20995) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/UMass-Embodied-AGI/TesserAct.svg?style=social&label=Star)](https://github.com/UMass-Embodied-AGI/TesserAct) |
-| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/pdf/2506.09985) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
-| [Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations](https://arxiv.org/abs/2412.14803) | ICML 2025 | [![Star](https://img.shields.io/github/stars/roboterax/video-prediction-policy.svg?style=social&label=Star)](https://github.com/roboterax/video-prediction-policy) |
-| [DreamGen: Unlocking Generalization in Robot Learning through Video World Models](https://arxiv.org/abs/2505.12705) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/NVIDIA/GR00T-Dreams.svg?style=social&label=Star)](https://github.com/NVIDIA/GR00T-Dreams) |
-| [EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](https://arxiv.org/abs/2501.01895) | arXiv 2025 | - |
-| [EnerVerse-AC: Envisioning Embodied Environments with Action Condition](https://arxiv.org/abs/2505.09723) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/AgibotTech/EnerVerse-AC.svg?style=social&label=Star)](https://github.com/AgibotTech/EnerVerse-AC) |
-| [Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](https://arxiv.org/abs/2508.05635v1) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/AgibotTech/Genie-Envisioner.svg?style=social&label=Star)](https://github.com/AgibotTech/Genie-Envisioner) |
-| [Vidar: Embodied Video Diffusion Model for Generalist Bimanual Manipulation](https://arxiv.org/abs/2507.12898) | arXiv 2025 | - |
-| [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/alibaba-damo-academy/WorldVLA.svg?style=social&label=Star)](https://github.com/alibaba-damo-academy/WorldVLA) |
-| [ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model](https://arxiv.org/pdf/2506.19842) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/April-Yz/ManiGaussian_Bimanual.svg?style=social&label=Star)](https://github.com/April-Yz/ManiGaussian_Bimanual) |
-| [ORV: 4D Occupancy-centric Robot Video Generation](https://arxiv.org/abs/2506.03079) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/OrangeSodahub/ORV.svg?style=social&label=Star)](https://github.com/OrangeSodahub/ORV) |
-| [GWM: Towards Scalable Gaussian World Models for Robotic Manipulation](https://arxiv.org/pdf/2508.17600) | ICCV 2025 | - |
-| [WorldEval: World Model as Real-World Robot Policies Evaluator](https://arxiv.org/abs/2505.19017) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/liyaxuanliyaxuan/Worldeval.svg?style=social&label=Star)](https://github.com/liyaxuanliyaxuan/Worldeval) |
-
-
-
-
-
-
-### 5.3 Societal Intelligence
+### 5.4 Societal Intelligence
 
 | Title                                                                                                                                   | Pub. & Date | Code / Project URL                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------- |
@@ -308,4 +322,4 @@ If this list helps your research, please ⭐ and cite:
 | [Network Formation and Dynamics Among Multi-LLMs](https://arxiv.org/abs/2402.10659)                                                     | arXiv 2024  | [![Star](https://img.shields.io/github/stars/papachristoumarios/llm-network-formation.svg?style=social&label=Star)](https://github.com/papachristoumarios/llm-network-formation)                    |
 | [S3: Social-network Simulation System with Large Language Model-Empowered Agents](https://arxiv.org/abs/2307.14984)                     | arXiv 2023  | [website](https://arxiv.org/abs/2307.14984)                     |
 | [Exploring large language models for communication games: An empirical study on werewolf](https://arxiv.org/abs/2309.04658)             | arXiv 2023  | [![Star](https://img.shields.io/github/stars/xuyuzhuang11/Werewolf.svg?style=social&label=Star)](https://github.com/xuyuzhuang11/Werewolf)                     |
-                
+
