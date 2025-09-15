@@ -113,22 +113,22 @@ If this list helps your research, please ⭐ and cite:
 ### 3.2 World Knowledge Learned by Models
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
-| [Does the chimpanzee have a theory of mind?](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/does-the-chimpanzee-have-a-theory-of-mind) | Behav. & Brain Sci. 1978 | — |
-| [GPT4GEO: How a Language Model Sees the World’s Geography](https://arxiv.org/abs/2306.00020) | FMDM@NeurIPS 2023 | — |
-| [LLMs achieve adult human performance on higher-order theory of mind tasks](https://arxiv.org/abs/2405.18870) | arXiv 2024 | — |
-| [COKE: A cognitive knowledge graph for machine theory of mind](https://aclanthology.org/2024.acl-long.848/) | ACL 2024 | [![Star](https://img.shields.io/github/stars/jincenziwu/COKE.svg?style=social&label=Star)](https://github.com/jincenziwu/COKE) |
-| [Think Twice: Perspective-Taking Improves LLM Theory-of-Mind](https://arxiv.org/abs/2311.10227) | ACL 2024 | [![Star](https://img.shields.io/github/stars/shawnsihyunlee/simulatedtom.svg?style=social&label=Star)](https://github.com/shawnsihyunlee/simulatedtom) |
-| [Language Models Represent Space and Time](https://openreview.net/forum?id=vTf65j92F5) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/wesg52/world-models.svg?style=social&label=Star)](https://github.com/wesg52/world-models) |
-| [GeoLLM: Extracting Geospatial Knowledge from Large Language Models](https://arxiv.org/abs/2310.06213) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/rohinmanvi/GeoLLM.svg?style=social&label=Star)](https://github.com/rohinmanvi/GeoLLM) |
-| [Large language models are geographically biased](https://arxiv.org/abs/2402.02680) | ICML 2024 | [![Star](https://img.shields.io/github/stars/rohinmanvi/GeoLLM.svg?style=social&label=Star)](https://github.com/rohinmanvi/GeoLLM) |
-| [Emergent Representations of Program Semantics in Language Models Trained on Programs](https://proceedings.mlr.press/v235/jin24a.html) | ICML 2024 | [![Star](https://img.shields.io/github/stars/charlesjin/emergent-semantics.svg?style=social&label=Star)](https://github.com/charlesjin/emergent-semantics) |
-| [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages](https://arxiv.org/abs/2406.09948) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/nlee0212/BLEnD.svg?style=social&label=Star)](https://github.com/nlee0212/BLEnD) |
-| [SafeWorld: Geo-Diverse Safety Alignment](https://arxiv.org/abs/2412.06483) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/PlusLabNLP/SafeWorld.svg?style=social&label=Star)](https://github.com/PlusLabNLP/SafeWorld) |
+| [Does the chimpanzee have a theory of mind?](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1E96B02CD9850016B7C93BC6D2FEF1D0/S0140525X00076512a.pdf/does-the-chimpanzee-have-a-theory-of-mind.pdf) | Behav. & Brain Sci. 1978 | — |
+| [GPT4GEO: How a Language Model Sees the World’s Geography](https://arxiv.org/pdf/2306.00020) | NeurIPS  2023 | [![Star](https://img.shields.io/github/stars/jonathan-roberts1/GPT4GEO.svg?style=social&label=Star)](https://github.com/jonathan-roberts1/GPT4GEO) |
+| [LLMs achieve adult human performance on higher-order theory of mind tasks](https://arxiv.org/pdf/2405.18870) | arXiv 2024 | — |
+| [COKE: A cognitive knowledge graph for machine theory of mind](https://aclanthology.org/2024.acl-long.848.pdf) | ACL 2024 | [![Star](https://img.shields.io/github/stars/jincenziwu/COKE.svg?style=social&label=Star)](https://github.com/jincenziwu/COKE) |
+| [Think Twice: Perspective-Taking Improves LLM Theory-of-Mind](https://arxiv.org/pdf/2311.10227) | ACL 2024 | [![Star](https://img.shields.io/github/stars/shawnsihyunlee/simulatedtom.svg?style=social&label=Star)](https://github.com/shawnsihyunlee/simulatedtom) |
+| [Language Models Represent Space and Time](https://arxiv.org/pdf/2310.02207) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/wesg52/world-models.svg?style=social&label=Star)](https://github.com/wesg52/world-models) |
+| [GeoLLM: Extracting Geospatial Knowledge from Large Language Models](https://arxiv.org/pdf/2310.06213) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/rohinmanvi/GeoLLM.svg?style=social&label=Star)](https://github.com/rohinmanvi/GeoLLM) |
+| [Large language models are geographically biased](https://arxiv.org/pdf/2402.02680) | ICML 2024 | [![Star](https://img.shields.io/github/stars/rohinmanvi/GeoLLM.svg?style=social&label=Star)](https://github.com/rohinmanvi/GeoLLM) |
+| [Emergent Representations of Program Semantics in Language Models Trained on Programs](https://openreview.net/pdf?id=zRrzSLwNHQ) | ICML 2024 | [![Star](https://img.shields.io/github/stars/charlesjin/emergent-semantics.svg?style=social&label=Star)](https://github.com/charlesjin/emergent-semantics) |
+| [BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages](https://arxiv.org/pdf/2406.09948) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/nlee0212/BLEnD.svg?style=social&label=Star)](https://github.com/nlee0212/BLEnD) |
+| [SafeWorld: Geo-Diverse Safety Alignment](https://arxiv.org/pdf/2412.06483) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/PlusLabNLP/SafeWorld.svg?style=social&label=Star)](https://github.com/PlusLabNLP/SafeWorld) |
 | [EAI: Emotional Decision-Making of LLMs in Strategic Games and Ethical Dilemmas](https://openreview.net/forum?id=8aAaYEwNR4) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/AIRI-Institute/EAI-Framework.svg?style=social&label=Star)](https://github.com/AIRI-Institute/EAI-Framework) |
 | [Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01882-z) | Nature Human Behaviour 2024 | [Website](https://osf.io/j3vhq) |
 | [Automated construction of cognitive maps with visual predictive coding](https://www.nature.com/articles/s42256-024-00863-1) | Nature Machine Intelligence 2024 | [![Star](https://img.shields.io/github/stars/jgornet/predictive-coding-recovers-maps.svg?style=social&label=Star)](https://github.com/jgornet/predictive-coding-recovers-maps) |
 | [Evaluating Large Language Models in Theory of Mind Tasks](https://www.pnas.org/doi/10.1073/pnas.2405460121) | PNAS 2024 | [Website](https://osf.io/csdhb/) |
-| [Elements of World Knowledge (EWOK)](https://arxiv.org/abs/2405.09605) | Transactions of the ACL 2025 | [Website](https://ewok-core.github.io/) |
+| [Elements of World Knowledge (EWOK)](https://arxiv.org/pdf/2405.09605) | Transactions of the ACL 2025 | [Website](https://ewok-core.github.io/) |
 | [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750) | Entropy 2025 | [![Star](https://img.shields.io/github/stars/ejmichaud/feature-geometry.svg?style=social&label=Star)](https://github.com/ejmichaud/feature-geometry) |
 | [AgentMove: A large language model based agentic framework for zero-shot next location prediction](https://arxiv.org/abs/2408.13986) | NAACL 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentMove.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/AgentMove) |
 | [CityGPT: Empowering Urban Spatial Cognition of Large Language Models](https://arxiv.org/abs/2406.13948) | KDD 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/CityGPT.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/CityGPT) |
@@ -143,8 +143,8 @@ If this list helps your research, please ⭐ and cite:
 | [Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models](https://arxiv.org/abs/2502.08636) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/XingruiWang/Spatial457.svg?style=social&label=Star)](https://github.com/XingruiWang/Spatial457) |
 | [Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://arxiv.org/abs/2412.14171) | CVPR 2025 | [Website](https://vision-x-nyu.github.io/thinking-in-space.github.io/) |
 | [A Survey of Large Language Model-Powered Spatial Intelligence Across Scales](https://arxiv.org/abs/2504.09848) | arXiv 2025 | — |
-| [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](https://arxiv.org/abs/2506.16898) | arXiv 2025 | — |
-| [Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models](https://arxiv.org/abs/2506.14674) | arXiv 2025 | — |
+| [AI's Blind Spots: Geographic Knowledge and Diversity Deficit in Generated Urban Scenario](https://arxiv.org/pdf/2506.16898) | arXiv 2025 | — |
+| [Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models](https://arxiv.org/pdf/2506.14674) | arXiv 2025 | — |
 
 ## 4 Future Prediction of the Physical World
 
