@@ -241,40 +241,36 @@ If this list helps your research, please ⭐ and cite:
 
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
-| [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) | OpenAI Research (2024) | [website](https://openai.com/research/video-generation-models-as-world-simulators) |
-| [GPT-4 technical report](https://arxiv.org/abs/2303.08774) | arXiv 2023 | [website](https://arxiv.org/abs/2303.08774) |
-| [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | arXiv 2023 | [website](https://llava-vl.github.io) |
-| [World models for autonomous driving: An initial survey](https://arxiv.org/abs/2401.01312) | IEEE T-IV 2024 | [website](https://arxiv.org/abs/2401.01312) |
-| [Waymax: An accelerated, data-driven simulator for large-scale autonomous driving research](https://arxiv.org/abs/2310.17918) | arXiv 2023 | [GitHub](https://github.com/waymo-research/waymax) |
-| [Model-free deep reinforcement learning for urban autonomous driving](https://arxiv.org/abs/1904.09503) | arXiv 2019 | [website](https://arxiv.org/abs/1904.09503) |
-| [Planning-oriented autonomous driving](https://arxiv.org/abs/2212.10156) | arXiv 2022 | [GitHub](https://github.com/OpenDriveLab/UniAD) |
-| [A survey on trajectory-prediction methods for autonomous driving](https://ieeexplore.ieee.org/document/9779556) | IEEE T-IV 2022 | [website](https://ieeexplore.ieee.org/document/9779556) |
-| [BEVFormer: Learning bird’s-eye-view representation from multi-camera images via spatiotemporal transformers](https://arxiv.org/abs/2203.17270) | arXiv 2022 | [GitHub](https://github.com/fundamentalvision/BEVFormer) |
-| [Transfusion: Robust lidar-camera fusion for 3D object detection with transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_TransFusion_Robust_LiDAR-Camera_Fusion_for_3D_Object_Detection_With_Transformers_CVPR_2022_paper.pdf) | CVPR 2022 | [GitHub](https://github.com/XuyangBai/TransFusion) |
-| [OmniDet: Surround-view cameras based multi-task visual perception network for autonomous driving](https://arxiv.org/abs/2102.07448) | arXiv 2021 | [website](https://arxiv.org/abs/2102.07448) |
-| [YOLOP: You only look once for panoptic driving perception](https://link.springer.com/article/10.1007/s11633-022-1339-y) | MIR 2022 | [GitHub](https://github.com/hustvl/YOLOP) |
-| [Wayformer: Motion forecasting via simple & efficient attention networks](https://arxiv.org/abs/2207.05844) | arXiv 2022 | [website](https://arxiv.org/abs/2207.05844) |
-| [MTR: Motion transformer with global intention localization and local movement refinement](https://proceedings.neurips.cc/paper_files/paper/2022/file/2c89109d44ed535a8f05c15b25357c18-Paper-Conference.pdf) | NeurIPS 2022 | [GitHub](https://github.com/sshaoshuai/MTR) |
-| [QCNet: Query-centric trajectory prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf) | CVPR 2023 | [website](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf) |
-| [HPTR: Real-time motion prediction via heterogeneous polyline transformer with relative pose encoding](https://arxiv.org/abs/2310.12970) | arXiv 2023 | [website](https://arxiv.org/abs/2310.12970) |
-| [MotionDiffuser: Controllable multi-agent motion prediction using diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf) | CVPR 2023 | [website](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf) |
-| [Tokenize the world into object-level knowledge to address long-tail events in autonomous driving](https://arxiv.org/abs/2407.00959) | arXiv 2024 | [website](https://arxiv.org/abs/2407.00959) |
-| [OmniDrive: A generalist driving model for perception and planning](https://arxiv.org/abs/2406.09500) | arXiv 2024 | [website](https://arxiv.org/abs/2406.09500) |
-| [GAIA-1: A generative world model for autonomous driving](https://arxiv.org/abs/2309.17080) | arXiv 2023 | [website](https://wayve.com/thinking/gaia-1-generative-ai-model-for-driving) |
-| [DriveDreamer: Towards real-world-driven world models for autonomous driving](https://arxiv.org/abs/2309.09777) | arXiv 2023 | [GitHub](https://github.com/Tsinghua-MARS-Lab/DriveDreamer) |
-| [Drive-WM: Multiview visual forecasting and planning with world model for autonomous driving](https://arxiv.org/abs/2311.17918) | arXiv 2023 | [GitHub](https://github.com/OpenDriveLab/Drive-WM) |
-| [OccWorld: Learning a 3D occupancy world model for autonomous driving](https://arxiv.org/abs/2311.16038) | arXiv 2023 | [website](https://wenzhaozheng.com/occworld) |
-| [OccSora: 4D occupancy generation models as world simulators for autonomous driving](https://arxiv.org/abs/2405.20337) | arXiv 2024 | [website](https://leningwang.github.io/occsora) |
-| [Vista: A generalizable driving world model with high fidelity and versatile controllability](https://arxiv.org/abs/2405.17398) | arXiv 2024 | [website](https://arxiv.org/abs/2405.17398) |
-| [Copilot4D: Learning unsupervised world models for autonomous driving via discrete diffusion](https://arxiv.org/abs/2311.01017) | arXiv 2023 | [website](https://copilot4d.github.io) |
-| [MUVO: A multimodal generative world model for autonomous driving with geometric representations](https://arxiv.org/abs/2311.11762) | arXiv 2023 | [GitHub](https://github.com/fzi-forschungszentrum-informatik/muvo) |
-| [UniWorld: Autonomous driving pre-training via world models](https://arxiv.org/abs/2308.07234) | arXiv 2023 | [website](https://arxiv.org/abs/2308.07234) |
-| [MetaUrban: A simulation platform for embodied AI in urban spaces](https://arxiv.org/abs/2407.08725) | arXiv 2024 | [GitHub](https://github.com/metadriverse/MetaUrban) |
-| [UrbanWorld: An urban world model for 3D city generation](https://arxiv.org/abs/2407.11965) | arXiv 2024 | [website](https://urban-world-model.github.io) |
-| [Streetscapes: Large-scale consistent street view generation using autoregressive video diffusion](https://arxiv.org/abs/2406.03578) | arXiv 2024 | [website](https://boyangdeng.com/streetscapes) |
-| [Recurrent world models facilitate policy evolution](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | NeurIPS 2018 | [website](https://worldmodels.github.io) |
+| [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) | OpenAI Research (2024) | [Website](https://openai.com/research/video-generation-models-as-world-simulators) |
+| [GPT-4 technical report](https://arxiv.org/abs/2303.08774) | arXiv 2023 | — |
+| [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | NeurIPS 2023 | [![Star](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg?style=social&label=Star)](https://github.com/haotian-liu/LLaVA) |
+| [World models for autonomous driving: An initial survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10522953) | IEEE T-IV 2024 | — |
+| [Waymax: An accelerated, data-driven simulator for large-scale autonomous driving research](https://arxiv.org/pdf/2310.17918) | arXiv 2023 | [![Star](https://img.shields.io/github/stars/waymo-research/waymax.svg?style=social&label=Star)](https://github.com/waymo-research/waymax) |
+| [Planning-oriented autonomous driving](https://arxiv.org/abs/2212.10156) | CVPR 2023 | [![Star](https://img.shields.io/github/stars/OpenDriveLab/UniAD.svg?style=social&label=Star)](https://github.com/OpenDriveLab/UniAD) |
+| [A survey on trajectory-prediction methods for autonomous driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779556) | IEEE T-IV 2022 | — |
+| [BEVFormer: Learning bird’s-eye-view representation from multi-camera images via spatiotemporal transformers](https://arxiv.org/abs/2203.17270) | ECCV 2022 | [![Star](https://img.shields.io/github/stars/fundamentalvision/BEVFormer.svg?style=social&label=Star)](https://github.com/fundamentalvision/BEVFormer) |
+| [Transfusion: Robust lidar-camera fusion for 3D object detection with transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Bai_TransFusion_Robust_LiDAR-Camera_Fusion_for_3D_Object_Detection_With_Transformers_CVPR_2022_paper.pdf) | CVPR 2022 | [![Star](https://img.shields.io/github/stars/XuyangBai/TransFusion.svg?style=social&label=Star)](https://github.com/XuyangBai/TransFusion) |
+| [YOLOP: You only look once for panoptic driving perception](https://link.springer.com/article/10.1007/s11633-022-1339-y) | MIR 2022 | [![Star](https://img.shields.io/github/stars/hustvl/YOLOP.svg?style=social&label=Star)](https://github.com/hustvl/YOLOP) |
+| [Wayformer: Motion forecasting via simple & efficient attention networks](https://arxiv.org/abs/2207.05844) | ICRA 2023 | — |
+| [Motion Transformer with Global Intention Localization and Local Movement Refinement](https://papers.nips.cc/paper_files/paper/2022/file/2ab47c960bfee4f86dfc362f26ad066a-Paper-Conference.pdf) | NeurIPS 2022 | [![Star](https://img.shields.io/github/stars/sshaoshuai/MTR.svg?style=social&label=Star)](https://github.com/sshaoshuai/MTR) |
+| [Query-Centric Trajectory Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf) | CVPR 2023 | [![Star](https://img.shields.io/github/stars/ZikangZhou/QCNet.svg?style=social&label=Star)](https://github.com/ZikangZhou/QCNet) |
+| [HPTR: Real-time motion prediction via heterogeneous polyline transformer with relative pose encoding](https://arxiv.org/abs/2310.12970) | NeurIPS 2023 | [![Star](https://img.shields.io/github/stars/zhejz/HPTR.svg?style=social&label=Star)](https://github.com/zhejz/HPTR) |
+| [MotionDiffuser: Controllable multi-agent motion prediction using diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf) | CVPR 2023 | — |
+| [Tokenize the world into object-level knowledge to address long-tail events in autonomous driving](https://arxiv.org/abs/2407.00959) | arXiv 2024 | — |
+| [GAIA-1: A generative world model for autonomous driving](https://arxiv.org/abs/2309.17080) | arXiv 2023 | — |
+| [DriveDreamer: Towards real-world-driven world models for autonomous driving](https://arxiv.org/abs/2309.09777) | ECCV 2024 | [![Star](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer) |
+| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM) |
+| [OccWorld: Learning a 3D occupancy world model for autonomous driving](https://arxiv.org/abs/2311.16038) | ECCV 2024 | [![Star](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star)](https://github.com/wzzheng/OccWorld) |
+| [OccSora: 4D occupancy generation models as world simulators for autonomous driving](https://arxiv.org/abs/2405.20337) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/wzzheng/OccSora.svg?style=social&label=Star)](https://github.com/wzzheng/OccSora) |
+| [Vista: A generalizable driving world model with high fidelity and versatile controllability](https://arxiv.org/abs/2405.17398) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/OpenDriveLab/Vista.svg?style=social&label=Star)](https://github.com/OpenDriveLab/Vista) |
+| [Copilot4D: Learning unsupervised world models for autonomous driving via discrete diffusion](https://arxiv.org/abs/2311.01017) | ICLR 2024 | — |
+| [MUVO: A multimodal generative world model for autonomous driving with geometric representations](https://arxiv.org/abs/2311.11762) | IEEE T-IV 2025 | [![Star](https://img.shields.io/github/stars/fzi-forschungszentrum-informatik/muvo.svg?style=social&label=Star)](https://github.com/fzi-forschungszentrum-informatik/muvo) |
+| [UniWorld: Autonomous driving pre-training via world models](https://arxiv.org/abs/2308.07234) | arXiv 2023 | [![Star](https://img.shields.io/github/stars/whuhxb/UniWorld.svg?style=social&label=Star)](https://github.com/whuhxb/UniWorld) |
+| [MetaUrban: A simulation platform for embodied AI in urban spaces](https://arxiv.org/abs/2407.08725) | ICLR 2025 | [![Star](https://img.shields.io/github/stars/metadriverse/MetaUrban.svg?style=social&label=Star)](https://github.com/metadriverse/MetaUrban) |
+| [UrbanWorld: An urban world model for 3D city generation](https://arxiv.org/abs/2407.11965) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/Urban-World/UrbanWorld.svg?style=social&label=Star)](https://github.com/Urban-World/UrbanWorld) |
+| [Streetscapes: Large-scale consistent street view generation using autoregressive video diffusion](https://arxiv.org/abs/2406.03578) | SIGGRAPH 2024 | [Website]([Website](https://gaussian-world-model.github.io/)) |
 
-##### Autonomous Logistics & Urban Analytics
+##### 
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
 | [Navigation World Models](https://arxiv.org/abs/2412.03572) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Star)](https://github.com/facebookresearch/nwm) |
