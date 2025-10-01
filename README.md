@@ -31,7 +31,7 @@ If this list helps your research, please ⭐ and cite:
 * [Roadmap of world models in deep learning era](#Roadmap-of-world-models-in-deep-learning-era)
     * [Model-based RL](#Model-based-RL)
     * [Self-supervised learning](#Self-supervised-learning)
-    * [LLM/MLLM](#LLM/MLLM)
+    * [LLM/MLLM](#LLMMLLM)
     * [Interactive 3D environment](#Interactive-3D-environment)
 
 * [3 Implicit Representation of the External World](#3-implicit-representation-of-the-external-world)
@@ -41,10 +41,10 @@ If this list helps your research, please ⭐ and cite:
     * [4.1 World Model as Video Generation](#41-what-to-predict)
     * [4.2 World Model as Embodied Environment](#42-how-to-predict)
 * [5 Applications of World Models](#5-applications-of-world-models)
-    * [5.1 Game Intelligence](# 5.1 Game Intelligence)
-    * [5.2 Embodied Intelligence](# 5.2 Embodied Intelligence)
-    * [5.3 Urban Intelligence](# 5.3 Urban Intelligence)
-    * [5.4 Societal Intelligence](# 5.4 Societal Intelligence)
+    * [5.1 Game Intelligence](#51-Game-Intelligence)
+    * [5.2 Embodied Intelligence](#52-Embodied-Intelligence)
+    * [5.3 Urban Intelligence](#53-Urban-Intelligence)
+    * [5.4 Societal Intelligence](#54-Societal-Intelligence)
 
 ## Roadmap of world models in deep learning era
 
@@ -63,16 +63,16 @@ If this list helps your research, please ⭐ and cite:
 
 ### Self-supervised learning
 
-| Title                                                        | Pub. & Date | Code/Project URL                                             |
-| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| [A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27  **(JEPA)**](https://openreview.net/pdf?id=BZ5a1r-kVsf) | 2024        | —                                                            |
-| [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning  **(DINO-WM)**](https://arxiv.org/pdf/2411.04983) | 2024        | [![Star](https://img.shields.io/github/stars/gaoyuezhou/dino_wm.svg?style=social&label=Star)](https://github.com/gaoyuezhou/dino_wm) |
-| [Revisiting Feature Prediction for Learning Visual Representations from Video  **(V-JEPA)**](https://arxiv.org/pdf/2404.08471) | 2024        | [![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)](https://github.com/facebookresearch/jepa) |
-| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning  **(V-JEPA2)**](https://arxiv.org/pdf/2506.09985) | 2025        | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
+| Title                                                        | Pub.&Date | Code/Project URL                                             |
+| ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| [A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27  **(JEPA)**](https://openreview.net/pdf?id=BZ5a1r-kVsf) | 2024      | —                                                            |
+| [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning  **(DINO-WM)**](https://arxiv.org/pdf/2411.04983) | 2024      | [![Star](https://img.shields.io/github/stars/gaoyuezhou/dino_wm.svg?style=social&label=Star)](https://github.com/gaoyuezhou/dino_wm) |
+| [Revisiting Feature Prediction for Learning Visual Representations from Video  **(V-JEPA)**](https://arxiv.org/pdf/2404.08471) | 2024      | [![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)](https://github.com/facebookresearch/jepa) |
+| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning  **(V-JEPA2)**](https://arxiv.org/pdf/2506.09985) | 2025      | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
 
 ### LLM/MLLM
 
-| Title                                                        | Pub. & Date  | Code/Project URL                                             |
+| Title                                                        | Pub.&Date    | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
 | [Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning  **(LLM-DM)**](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9f54762cbb4fe4dbffdd4f792c31221-Paper-Conference.pdf) | NeurIPS 2023 | [![Star](https://img.shields.io/github/stars/GuanSuns/LLMs-World-Models-for-Planning.svg?style=social&label=Star)](https://github.com/GuanSuns/LLMs-World-Models-for-Planning) |
 | [WorldGPT: Empowering LLM as Multimodal World Model  **(WorldGPT)**](https://dl.acm.org/doi/pdf/10.1145/3664647.3681488) | ACM MM 2024  | [![Star](https://img.shields.io/github/stars/DCDmllm/WorldGPT.svg?style=social&label=Star)](https://github.com/DCDmllm/WorldGPT) |
@@ -80,11 +80,11 @@ If this list helps your research, please ⭐ and cite:
 
 ### Interactive 3D environment
 
-| Title                                                        | Pub. & Date | Code/Project URL                                             |
-| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| [Interactive 3D Scene Generation from a Single Image  **(WonderWorld)**](https://arxiv.org/pdf/2308.07540) | CVPR 2025   | [![Star](https://img.shields.io/github/stars/KovenYu/WonderWorld.svg?style=social&label=Star)](https://github.com/KovenYu/WonderWorld) |
-| [Matrix-3D: Omnidirectional Explorable 3D World Generation  **(Matrix-3D)**](https://arxiv.org/pdf/2508.08086) | 2025        | [![Star](https://img.shields.io/github/stars/SkyworkAI/Matrix-3D.svg?style=social&label=Star)](https://github.com/SkyworkAI/Matrix-3D) |
-| [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels  **(Hunyuan World)**](https://arxiv.org/pdf/2507.21809) | 2025        | [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) |
+| Title                                                        | Pub.&Date | Code/Project URL                                             |
+| ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| [Interactive 3D Scene Generation from a Single Image  **(WonderWorld)**](https://arxiv.org/pdf/2308.07540) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/KovenYu/WonderWorld.svg?style=social&label=Star)](https://github.com/KovenYu/WonderWorld) |
+| [Matrix-3D: Omnidirectional Explorable 3D World Generation  **(Matrix-3D)**](https://arxiv.org/pdf/2508.08086) | 2025      | [![Star](https://img.shields.io/github/stars/SkyworkAI/Matrix-3D.svg?style=social&label=Star)](https://github.com/SkyworkAI/Matrix-3D) |
+| [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels  **(Hunyuan World)**](https://arxiv.org/pdf/2507.21809) | 2025      | [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) |
 
 ### 
 
