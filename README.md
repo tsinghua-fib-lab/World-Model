@@ -28,7 +28,7 @@ If this list helps your research, please ⭐ and cite:
 
 ## Table of Contents 🍃
 
-* [1 Introduction & 2 Background](#1-introduction--2-background)
+* [Roadmap of world models in deep learning era](#Roadmap of world models in deep learning era)
 * [3 Implicit Representation of the External World](#3-implicit-representation-of-the-external-world)
     * [3.1 World Model in Decision Making](#31-world-model-decision-making)
     * [3.2 World Knowledge Learned by Models](#32-world-knowledge-learned)
@@ -40,33 +40,46 @@ If this list helps your research, please ⭐ and cite:
     * [5.2 Robots](#52-world-models-for-generative-tasks)
     * [5.3 Social Simulacra](#53-world-models-for-embodied-intelligence)
 
+## Roadmap of world models in deep learning era
 
-## 1 Introduction & 2 Background
+### Model-based RL
 
-| Title | Pub. & Date | Code/Project URL |
-|---|---|---|
-| [Sora: Creating video from text](https://openai.com/sora) | OpenAI 2024 | |
-| [A path towards autonomous machine intelligence version 0.9.2, 2022-06-27](https://openreview.net/forum?id=BZ5a1r-kVsf) | Open Review 2022 | |
-| [A framework for representing knowledge](https://dspace.mit.edu/handle/1721.1/5834) | 1974 | |
-| [Recurrent world models facilitate policy evolution](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | 2018 | [![Website](https://img.shields.io/badge/Website-9cf)](https://worldmodels.github.io/) |
-| [World models](https://arxiv.org/abs/1803.10122) | 2018 | [![Website](https://img.shields.io/badge/Website-9cf)](https://worldmodels.github.io/) |
-| [Mental models: Towards a cognitive science of language, inference, and consciousness](https://www.hup.harvard.edu/books/9780674568512) | | |
-| [Sora as an agi world model? a complete survey on text-to-video generation](https://arxiv.org/abs/2403.05131) | arXiv 2024 | |
-| [Is sora a world simulator? a comprehensive survey on general world models and beyond](https://arxiv.org/abs/2405.03520) | arXiv 2024 | |
-| [World models for autonomous driving: An initial survey](https://arxiv.org/abs/2401.01312) | IEEE T-IV 2024 | |
-| [Data-centric evolution in autonomous driving: A comprehensive survey of big data system, data mining, and closed-loop technologies](https://arxiv.org/abs/2401.12888) | arXiv 2024 | |
-| [Forging vision foundation models for autonomous driving: Challenges, methodologies, and opportunities](https://arxiv.org/abs/2401.08045) | arXiv 2024 | |
-| [From Efficient Multimodal Models to World Models: A Survey](https://arxiv.org/abs/2407.00118) | arXiv 2024 | |
-| [MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving](https://ieeexplore.ieee.org/document/8569113) | arXiv 2018 | |
-| [YOLOP: You Only Look Once for Panoptic Driving Perception](https://link.springer.com/article/10.1007/s11633-022-1339-y) | Image and Vision Computing 2022 | [![Star](https://img.shields.io/github/stars/hustvl/YOLOP.svg?style=social&label=Star)](https://github.com/hustvl/YOLOP) |
-| [Scene transformer: A unified multi-task model for behavior prediction and planning](https://openreview.net/forum?id=53A9Pu06k63) | | |
-| [Motion transformer with global intention localization and local movement refinement](https://proceedings.neurips.cc/paper_files/paper/2022/file/2c89109d44ed535a8f05c15b25357c18-Paper-Conference.pdf) | NeurIPS 2022 | [![Star](https://img.shields.io/github/stars/sshaoshuai/MTR.svg?style=social&label=Star)](https://github.com/sshaoshuai/MTR) |
-| [Query-centric trajectory prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf) | CVPR 2023 | |
-| [Gnm: A general navigation model to drive any robot](https://ieeexplore.ieee.org/document/10160295) | IEEE Trans. on Robotics 2023 | [![Website](https://img.shields.io/badge/Website-9cf)](https://general-navigation-models.github.io/) |
-| [Repvit: Revisiting mobile cnn from vit perspective](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_RepViT_Revisiting_Mobile_CNN_From_ViT_Perspective_CVPR_2024_paper.pdf) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/THU-MIG/RepViT.svg?style=social&label=Star)](https://github.com/THU-MIG/RepViT) |
-| [Learning latent dynamics for planning from pixels](https://proceedings.mlr.press/v97/hafner19a/hafner19a.pdf) | ICML 2019 | [![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/planet) |
-| [S3: Social-network Simulation System with Large Language Model-Empowered Agents](https://arxiv.org/abs/2307.14984) | arXiv 2023 | |
-| [Generative agents: Interactive simulacra of human behavior](https://dl.acm.org/doi/10.1145/3586183.3606763) | UIST 2023 | [![Star](https://img.shields.io/github/stars/joonspk-research/generative_agents.svg?style=social&label=Star)](https://github.com/joonspk-research/generative_agents) |
+| Title                                                        | Pub. & Date  | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| [Recurrent world models facilitate policy evolution](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | NeurIPS 2018 | [![Website](https://img.shields.io/badge/Website-9cf)](https://worldmodels.github.io/) |
+| [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/pdf/1811.04551) | ICML 2019    | [![Star](https://img.shields.io/github/stars/google-research/planet.svg?style=social&label=Star)](https://github.com/google-research/planet) |
+| [Dream to control: Learning behaviors by latent imagination](https://arxiv.org/pdf/1912.01603) | ICLR 2020    | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/danijar/dreamer) |
+| [Mastering atari with discrete world models](https://arxiv.org/pdf/2010.02193) | ICLR 2021    | [![Star](https://img.shields.io/github/stars/danijar/dreamerv2.svg?style=social&label=Star)](https://github.com/danijar/dreamerv2) |
+| [Temporal Difference Learning for Model Predictive Control](https://arxiv.org/pdf/2203.04955) | ICML 2023    | [![Star](https://img.shields.io/github/stars/nicklashansen/tdmpc.svg?style=social&label=Star)](https://github.com/nicklashansen/tdmpc) |
+| [Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) | 2023         | [![Star](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Star)](https://github.com/danijar/dreamerv3) |
+| [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://openreview.net/pdf?id=Oxh5CstDJU) | ICLR 2024    | [![Star](https://img.shields.io/github/stars/nicklashansen/tdmpc2.svg?style=social&label=Star)](https://github.com/nicklashansen/tdmpc2) |
+| [PWM: Policy Learning with Multi-Task World Models](https://openreview.net/pdf?id=Oxh5CstDJU) | ICLR 2025    | [![Star](https://img.shields.io/github/stars/imgeorgiev/PWM.svg?style=social&label=Star)](https://github.com/imgeorgiev/PWM) |
+
+### Self-supervised learning
+
+| Title                                                        | Pub. & Date | Code/Project URL                                             |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| [A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27](https://openreview.net/pdf?id=BZ5a1r-kVsf) | 2024        | —                                                            |
+| [Revisiting Feature Prediction for Learning Visual Representations from Video](https://arxiv.org/pdf/2404.08471) | 2024        | [![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)](https://github.com/facebookresearch/jepa) |
+| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/pdf/2506.09985) | 2025        | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
+
+### LLM/MLLM
+
+| Title                                                        | Pub. & Date | Code/Project URL                                             |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| [CALYPSO: LLMs as Dungeon Master's Assistants](https://arxiv.org/pdf/2308.07540) | AAAI 2023   | [![Star](https://img.shields.io/github/stars/northern-lights-province/calypso-aiide-artifact.svg?style=social&label=Star)](https://github.com/northern-lights-province/calypso-aiide-artifact) |
+| [WorldGPT: Empowering LLM as Multimodal World Model](https://dl.acm.org/doi/pdf/10.1145/3664647.3681488) | ACM MM 2024 | [![Star](https://img.shields.io/github/stars/DCDmllm/WorldGPT.svg?style=social&label=Star)](https://github.com/DCDmllm/WorldGPT) |
+| [Text2World: Benchmarking Large Language Models for Symbolic World Model Generation](https://arxiv.org/pdf/2502.13092) | ACL 2025    | [![Star](https://img.shields.io/github/stars/Aaron617/text2world.svg?style=social&label=Star)](https://github.com/Aaron617/text2world) |
+
+### **Interactive 3D environment** 
+
+| Title                                                        | Pub. & Date | Code/Project URL                                             |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| [Interactive 3D Scene Generation from a Single Image](https://arxiv.org/pdf/2308.07540) | CVPR 2025   | [![Star](https://img.shields.io/github/stars/KovenYu/WonderWorld.svg?style=social&label=Star)](https://github.com/KovenYu/WonderWorld) |
+| [Matrix-3D: Omnidirectional Explorable 3D World Generation](https://arxiv.org/pdf/2508.08086) | 2025        | [![Star](https://img.shields.io/github/stars/SkyworkAI/Matrix-3D.svg?style=social&label=Star)](https://github.com/SkyworkAI/Matrix-3D) |
+| [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels](https://arxiv.org/pdf/2507.21809) | 2025        | [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) |
+
+### 
 
 ## 3 Implicit Representation of the External World
 
@@ -84,13 +97,13 @@ If this list helps your research, please ⭐ and cite:
 | [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://openreview.net/pdf?id=Oxh5CstDJU) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/nicklashansen/tdmpc2.svg?style=social&label=Star)](https://github.com/nicklashansen/tdmpc2) |
 | [When to trust your model: Model-based policy optimization](https://arxiv.org/pdf/1906.08253) | NeurIPS 2019 | [![Star](https://img.shields.io/github/stars/jannerm/mbpo.svg?style=social&label=Star)](https://github.com/jannerm/mbpo) |
 | [Offline reinforcement learning as one big sequence modeling problem](https://proceedings.neurips.cc/paper/2021/file/099fe6b0b444c23836c4a5d07346082b-Paper.pdf) | NeurIPS 2021 | [![Star](https://img.shields.io/github/stars/jannerm/trajectory-transformer.svg?style=social&label=Star)](https://github.com/jannerm/trajectory-transformer) |
-| [Model predictive control](https://link.springer.com/content/pdf/10.1007/978-3-319-24853-0.pdf) | Springer | - |
+| [Model predictive control](https://link.springer.com/content/pdf/10.1007/978-3-319-24853-0.pdf) | Springer | — |
 | [Algorithmic framework for model-based deep reinforcement learning with theoretical guarantees](https://openreview.net/pdf?id=BJe1E2R5KX) | ICLR 2019 | [![Star](https://img.shields.io/github/stars/roosephu/slbo.svg?style=social&label=Star)](https://github.com/roosephu/slbo) |
 | [Neural network dynamics for model-based deep reinforcement learning with model-free fine-tuning](https://arxiv.org/pdf/1708.02596) | ICRA 2018 | [![Star](https://img.shields.io/github/stars/anagabandi/nn_dynamics.svg?style=social&label=Star)](https://github.com/anagabandi/nn_dynamics) |
 | [A game theoretic framework for model based reinforcement learning](https://arxiv.org/pdf/2004.07804) | ICML 2021 | [![Star](https://img.shields.io/github/stars/aravindr93/mjrl.svg?style=social&label=Star)](https://github.com/aravindr93/mjrl/tree/v2) |
-| [General agents need world models](https://arxiv.org/pdf/2506.01622) | ICML 2025    | - |
+| [General agents need world models](https://arxiv.org/pdf/2506.01622) | ICML 2025    | — |
 | [Mastering memory tasks with world models](https://arxiv.org/abs/2403.04253) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/chandar-lab/Recall2Imagine.svg?style=social&label=Star)](https://github.com/chandar-lab/Recall2Imagine) |
-| [A generalist dynamics model for control](https://arxiv.org/abs/2305.10912) | arXiv 2023 | - |
+| [A generalist dynamics model for control](https://arxiv.org/abs/2305.10912) | arXiv 2023 | — |
 | [Exploring model-based planning with policy networks](https://openreview.net/pdf?id=H1exf64KwH) | ICLR 2020 | [![Star](https://img.shields.io/github/stars/WilsonWangTHU/POPLIN.svg?style=social&label=Star)](https://github.com/WilsonWangTHU/POPLIN) |
 | [A0c: Alpha zero in continuous action space](https://arxiv.org/abs/1805.09613) | arXiv 2018 | [![Star](https://img.shields.io/github/stars/tmoer/a0c.svg?style=social&label=Star)](https://github.com/tmoer/a0c) |
 | [Probabilistic adaptation of text-to-video models](https://arxiv.org/pdf/2306.01872v1) | ICLR 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://video-adapter.github.io/video-adapter/) |
@@ -98,8 +111,8 @@ If this list helps your research, please ⭐ and cite:
 | [Discuss before moving: Visual language navigation via multi-expert discussions](https://arxiv.org/pdf/2309.11382) | ICRA 2024 | [![Star](https://img.shields.io/github/stars/LYX0501/DiscussNav.svg?style=social&label=Star)](https://github.com/LYX0501/DiscussNav) |
 | [OVER-NAV: Elevating Iterative Vision-and-Language Navigation with Open-Vocabulary Detection and Structured Representation](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_OVER-NAV_Elevating_Iterative_Vision-and-Language_Navigation_with_Open-Vocabulary_Detection_and_StructurEd_CVPR_2024_paper.pdf) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/uitrbn/OVER-NAV-IVLN-CE.svg?style=social&label=Star)](https://github.com/uitrbn/OVER-NAV-IVLN-CE) |
 | [RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation](https://openaccess.thecvf.com/content/CVPR2024//papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf) | CVPR 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://rila-savn.github.io/RILA/) |
-| [Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models](https://arxiv.org/pdf/2501.09686) | arXiv 2025 | - |
-| [Position: LLMs can't plan, but can help planning in LLM-modulo frameworks](https://arxiv.org/pdf/2402.01817) | ICML 2024 | - |
+| [Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models](https://arxiv.org/pdf/2501.09686) | arXiv 2025 | — |
+| [Position: LLMs can't plan, but can help planning in LLM-modulo frameworks](https://arxiv.org/pdf/2402.01817) | ICML 2024 | — |
 | [Language models meet world models: Embodied experiences enhance language models](https://proceedings.neurips.cc/paper_files/paper/2023/file/ee6630dcbcff857026e474fc857aa9f0-Paper-Conference.pdf#:~:text=In%20this%20paper%2C%20we%20propose%20a%20new%20paradigm,embodied%20knowledge%20while%20retaining%20their%20general%20language%20capabilities.) | NeurIPS 2023 | [![Star](https://img.shields.io/github/stars/szxiangjn/world-model-for-language-model.svg?style=social&label=Star)](https://github.com/szxiangjn/world-model-for-language-model) |
 | [Virtualhome: Simulating household activities via programs](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf) | CVPR 2018 | [![Star](https://img.shields.io/github/stars/xavierpuigf/virtualhome.svg?style=social&label=Star)](https://github.com/xavierpuigf/virtualhome) |
 | [Learning to Model the World with Language](https://arxiv.org/pdf/2308.01399) | ICML 2024 | [![Star](https://img.shields.io/github/stars/jlin816/dynalang.svg?style=social&label=Star)](https://github.com/jlin816/dynalang) |
@@ -110,7 +123,10 @@ If this list helps your research, please ⭐ and cite:
 | [WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment](https://arxiv.org/pdf/2402.12275) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/haotang1995/WorldCoder.svg?style=social&label=Star)](https://github.com/haotang1995/WorldCoder) |
 | [Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation](https://arxiv.org/pdf/2410.13232) | ICLR 2025 | [![Star](https://img.shields.io/github/stars/kyle8581/WMA-Agents.svg?style=social&label=Star)](https://github.com/kyle8581/WMA-Agents) |
 
+
+
 ### 3.2 World Knowledge Learned by Models
+
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
 | [Does the chimpanzee have a theory of mind?](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1E96B02CD9850016B7C93BC6D2FEF1D0/S0140525X00076512a.pdf/does-the-chimpanzee-have-a-theory-of-mind.pdf) | Behav. & Brain Sci. 1978 | — |
@@ -290,7 +306,6 @@ If this list helps your research, please ⭐ and cite:
 | [AgentMove: A Large Language Model based Agentic Framework for Zero-shot Next Location Prediction](https://aclanthology.org/2025.naacl-long.61/) | NAACL 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentMove.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/AgentMove) |
 | [CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation](https://arxiv.org/abs/2506.13599) | arXiv 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/CAMS.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/CAMS) |
 | [Open-Set Living Need Prediction with Large Language Models](https://arxiv.org/abs/2506.02713) | ACL 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/PIGEON.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/PIGEON) |
-
 
 
 
