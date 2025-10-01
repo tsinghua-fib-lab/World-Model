@@ -2,7 +2,7 @@
 
 A curated list of awesome resources on World Models, based on the comprehensive survey "Understanding World or Predicting Future? A Comprehensive Survey of World Models".
 
-![Loading Outline](asset/outline.png "outline")
+![Loading roadmap](asset/roadmap.png "outline")
 
 ## News🔥
 
@@ -48,6 +48,8 @@ If this list helps your research, please ⭐ and cite:
 
 ## Roadmap of world models in deep learning era
 
+![Loading roadmap](asset/roadmap.png "outline")
+
 ### Model-based RL
 
 | Title                                                        | Pub. & Date  | Code/Project URL                                             |
@@ -61,6 +63,8 @@ If this list helps your research, please ⭐ and cite:
 | [TD-MPC2: Scalable, Robust World Models for Continuous Control  **(TD-MPC2)**](https://openreview.net/pdf?id=Oxh5CstDJU) | ICLR 2024    | [![Star](https://img.shields.io/github/stars/nicklashansen/tdmpc2.svg?style=social&label=Star)](https://github.com/nicklashansen/tdmpc2) |
 | [PWM: Policy Learning with Multi-Task World Models  **(PWM)**](https://openreview.net/pdf?id=Oxh5CstDJU) | ICLR 2025    | [![Star](https://img.shields.io/github/stars/imgeorgiev/PWM.svg?style=social&label=Star)](https://github.com/imgeorgiev/PWM) |
 
+
+
 ### Self-supervised learning
 
 | Title                                                        | Pub.&Date | Code/Project URL                                             |
@@ -70,6 +74,8 @@ If this list helps your research, please ⭐ and cite:
 | [Revisiting Feature Prediction for Learning Visual Representations from Video  **(V-JEPA)**](https://arxiv.org/pdf/2404.08471) | 2024      | [![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)](https://github.com/facebookresearch/jepa) |
 | [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning  **(V-JEPA2)**](https://arxiv.org/pdf/2506.09985) | 2025      | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
 
+
+
 ### LLM/MLLM
 
 | Title                                                        | Pub.&Date    | Code/Project URL                                             |
@@ -77,6 +83,25 @@ If this list helps your research, please ⭐ and cite:
 | [Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning  **(LLM-DM)**](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9f54762cbb4fe4dbffdd4f792c31221-Paper-Conference.pdf) | NeurIPS 2023 | [![Star](https://img.shields.io/github/stars/GuanSuns/LLMs-World-Models-for-Planning.svg?style=social&label=Star)](https://github.com/GuanSuns/LLMs-World-Models-for-Planning) |
 | [WorldGPT: Empowering LLM as Multimodal World Model  **(WorldGPT)**](https://dl.acm.org/doi/pdf/10.1145/3664647.3681488) | ACM MM 2024  | [![Star](https://img.shields.io/github/stars/DCDmllm/WorldGPT.svg?style=social&label=Star)](https://github.com/DCDmllm/WorldGPT) |
 | [Text2World: Benchmarking Large Language Models for Symbolic World Model Generation  **(Text2World)**](https://arxiv.org/pdf/2502.13092) | ACL 2025     | [![Star](https://img.shields.io/github/stars/Aaron617/text2world.svg?style=social&label=Star)](https://github.com/Aaron617/text2world) |
+
+
+
+### Video generation
+
+| Title                                                        | Pub.&Date    | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers  **(CogVideo)**](https://arxiv.org/pdf/2205.15868) | ICLR 2023    | [![Star](https://img.shields.io/github/stars/zai-org/CogVideo.svg?style=social&label=Star)](https://github.com/zai-org/CogVideo) |
+| [Structure and Content-Guided Video Synthesis with Diffusion Models  **(Gen‑1)**](https://arxiv.org/pdf/2508.08086) | ICCV 2023    | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-1) |
+| [UniSim: Learning Interactive Real-World Simulators  **(Unisim)**](https://openreview.net/pdf?id=sFyTZEqmUY) | ICLR 2024    | [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-simulator.github.io/unisim/) |
+| [Sora: Creating video from text  **(Sora)**](https://openai.com/sora) | OpenAI 2024  | —                                                            |
+| [World model on million-length video and language with ring-attention  **(LWM)**](https://arxiv.org/pdf/2402.08268) | ICLR 2025    | [![Star](https://img.shields.io/github/stars/LargeWorldModel/lwm.svg?style=social&label=Star)](https://github.com/LargeWorldModel/lwm) |
+| [Genie: Generative Interactive Environmentsn  **(Genie)**](https://openreview.net/pdf?id=bJbSbJskOS) | ICML 2024    | [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/genie-2024/home) |
+| [iVideoGPT: Interactive VideoGPTs are Scalable World Models  **(iVideoGPT)**](https://arxiv.org/pdf/2405.15223) | NeurIPS 2024 | [![Star](https://img.shields.io/github/stars/thuml/iVideoGPT.svg?style=social&label=Star)](https://github.com/thuml/iVideoGPT) |
+| [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer  **(CogVideoX)**](https://arxiv.org/pdf/2408.06072) | ICLR 2025    | [![Star](https://img.shields.io/github/stars/zai-org/CogVideo.svg?style=social&label=Star)](https://github.com/zai-org/CogVideo) |
+| [Wan: Open and Advanced Large-Scale Video Generative Models  **(Wan)**](https://arxiv.org/pdf/2507.21809) | 2025         | [![Star](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Star)](https://github.com/Wan-Video/Wan2.1) |
+| [Cosmos World Foundation Model Platform for Physical AI  **(Cosmos)**](https://arxiv.org/pdf/2501.03575) | 2025         | [![Star](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict2.svg?style=social&label=Star)](https://github.com/nvidia-cosmos/cosmos-predict2) |
+
+
 
 ### Interactive 3D environment
 
@@ -207,7 +232,7 @@ If this list helps your research, please ⭐ and cite:
 | [UrbanWorld: An Urban World Model for 3D City Generation](https://arxiv.org/abs/2407.11965) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/Urban-World/UrbanWorld.svg?style=social&label=Star)](https://github.com/Urban-World/UrbanWorld) |
 | [MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility](https://arxiv.org/pdf/2407.08725) | ICLR 2025 | [![Star](https://img.shields.io/github/stars/metadriverse/metaurban.svg?style=social&label=Star)](https://github.com/metadriverse/metaurban) |
 | [Minedojo: Building open-ended embodied agents with internet-scale knowledge](https://arxiv.org/abs/2206.08853) | NeurIPS 2022 | [![Star](https://img.shields.io/github/stars/MineDojo/MineDojo.svg?style=social&label=Star)](https://github.com/MineDojo/MineDojo) |
-| [UniSim: Learning Interactive Real-World Simulators](https://openreview.net/pdf?id=sFyTZEqmUY) | ICLR 2024 | — |
+| [UniSim: Learning Interactive Real-World Simulators](https://openreview.net/pdf?id=sFyTZEqmUY) | ICLR 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-simulator.github.io/unisim/) |
 | [EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment](https://arxiv.org/abs/2410.09604) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/EmbodiedCity.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/EmbodiedCity) |
 | [Empowering World Models with Reflection for Embodied Video Prediction](https://arxiv.org/abs/2410.15461) | ICML 2025 | — |
 | [Streetscapes: Large-scale consistent street view generation using autoregressive video diffusion](https://arxiv.org/abs/2406.03578) | SIGGRAPH 2024 | — |
