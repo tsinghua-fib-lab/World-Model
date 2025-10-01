@@ -28,7 +28,12 @@ If this list helps your research, please ⭐ and cite:
 
 ## Table of Contents 🍃
 
-* [Roadmap of world models in deep learning era](#Roadmap of world models in deep learning era)
+* [Roadmap of world models in deep learning era](# Roadmap of world models in deep learning era)
+    * [Model-based RL](# Model-based RL)
+    * [Self-supervised learning](# Self-supervised learning)
+    * [LLM/MLLM](# LLM/MLLM)
+    * [Interactive 3D environment](# Interactive 3D environment)
+
 * [3 Implicit Representation of the External World](#3-implicit-representation-of-the-external-world)
     * [3.1 World Model in Decision Making](#31-world-model-decision-making)
     * [3.2 World Knowledge Learned by Models](#32-world-knowledge-learned)
@@ -36,9 +41,10 @@ If this list helps your research, please ⭐ and cite:
     * [4.1 World Model as Video Generation](#41-what-to-predict)
     * [4.2 World Model as Embodied Environment](#42-how-to-predict)
 * [5 Applications of World Models](#5-applications-of-world-models)
-    * [5.1 Autonomous Driving](#51-world-models-for-decision-making-and-control)
-    * [5.2 Robots](#52-world-models-for-generative-tasks)
-    * [5.3 Social Simulacra](#53-world-models-for-embodied-intelligence)
+    * [5.1 Game Intelligence](# 5.1 Game Intelligence)
+    * [5.2 Embodied Intelligence](# 5.2 Embodied Intelligence)
+    * [5.3 Urban Intelligence](# 5.3 Urban Intelligence)
+    * [5.4 Societal Intelligence](# 5.4 Societal Intelligence)
 
 ## Roadmap of world models in deep learning era
 
@@ -46,38 +52,39 @@ If this list helps your research, please ⭐ and cite:
 
 | Title                                                        | Pub. & Date  | Code/Project URL                                             |
 | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
-| [Recurrent world models facilitate policy evolution](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | NeurIPS 2018 | [![Website](https://img.shields.io/badge/Website-9cf)](https://worldmodels.github.io/) |
-| [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/pdf/1811.04551) | ICML 2019    | [![Star](https://img.shields.io/github/stars/google-research/planet.svg?style=social&label=Star)](https://github.com/google-research/planet) |
-| [Dream to control: Learning behaviors by latent imagination](https://arxiv.org/pdf/1912.01603) | ICLR 2020    | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/danijar/dreamer) |
-| [Mastering atari with discrete world models](https://arxiv.org/pdf/2010.02193) | ICLR 2021    | [![Star](https://img.shields.io/github/stars/danijar/dreamerv2.svg?style=social&label=Star)](https://github.com/danijar/dreamerv2) |
-| [Temporal Difference Learning for Model Predictive Control](https://arxiv.org/pdf/2203.04955) | ICML 2023    | [![Star](https://img.shields.io/github/stars/nicklashansen/tdmpc.svg?style=social&label=Star)](https://github.com/nicklashansen/tdmpc) |
-| [Mastering Diverse Domains through World Models](https://arxiv.org/pdf/2301.04104) | 2023         | [![Star](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Star)](https://github.com/danijar/dreamerv3) |
-| [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://openreview.net/pdf?id=Oxh5CstDJU) | ICLR 2024    | [![Star](https://img.shields.io/github/stars/nicklashansen/tdmpc2.svg?style=social&label=Star)](https://github.com/nicklashansen/tdmpc2) |
-| [PWM: Policy Learning with Multi-Task World Models](https://openreview.net/pdf?id=Oxh5CstDJU) | ICLR 2025    | [![Star](https://img.shields.io/github/stars/imgeorgiev/PWM.svg?style=social&label=Star)](https://github.com/imgeorgiev/PWM) |
+| [Recurrent world models facilitate policy evolution  **(RWM)**](https://proceedings.neurips.cc/paper/2018/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf) | NeurIPS 2018 | [![Website](https://img.shields.io/badge/Website-9cf)](https://worldmodels.github.io/) |
+| [Learning Latent Dynamics for Planning from Pixels  **(PlaNet)**](https://arxiv.org/pdf/1811.04551) | ICML 2019    | [![Star](https://img.shields.io/github/stars/google-research/planet.svg?style=social&label=Star)](https://github.com/google-research/planet) |
+| [Dream to control: Learning behaviors by latent imagination  **(Dreamer V1)**](https://arxiv.org/pdf/1912.01603) | ICLR 2020    | [![Star](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Star)](https://github.com/danijar/dreamer) |
+| [Mastering atari with discrete world models  **(Dreamer V2)**](https://arxiv.org/pdf/2010.02193) | ICLR 2021    | [![Star](https://img.shields.io/github/stars/danijar/dreamerv2.svg?style=social&label=Star)](https://github.com/danijar/dreamerv2) |
+| [Temporal Difference Learning for Model Predictive Control  **(TD-MPC1)**](https://arxiv.org/pdf/2203.04955) | ICML 2023    | [![Star](https://img.shields.io/github/stars/nicklashansen/tdmpc.svg?style=social&label=Star)](https://github.com/nicklashansen/tdmpc) |
+| [Mastering Diverse Domains through World Models  **(Dreamer V3)**](https://arxiv.org/pdf/2301.04104) | 2023         | [![Star](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Star)](https://github.com/danijar/dreamerv3) |
+| [TD-MPC2: Scalable, Robust World Models for Continuous Control  **(TD-MPC2)**](https://openreview.net/pdf?id=Oxh5CstDJU) | ICLR 2024    | [![Star](https://img.shields.io/github/stars/nicklashansen/tdmpc2.svg?style=social&label=Star)](https://github.com/nicklashansen/tdmpc2) |
+| [PWM: Policy Learning with Multi-Task World Models  **(PWM)**](https://openreview.net/pdf?id=Oxh5CstDJU) | ICLR 2025    | [![Star](https://img.shields.io/github/stars/imgeorgiev/PWM.svg?style=social&label=Star)](https://github.com/imgeorgiev/PWM) |
 
 ### Self-supervised learning
 
 | Title                                                        | Pub. & Date | Code/Project URL                                             |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| [A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27](https://openreview.net/pdf?id=BZ5a1r-kVsf) | 2024        | —                                                            |
-| [Revisiting Feature Prediction for Learning Visual Representations from Video](https://arxiv.org/pdf/2404.08471) | 2024        | [![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)](https://github.com/facebookresearch/jepa) |
-| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/pdf/2506.09985) | 2025        | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
+| [A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27  **(JEPA)**](https://openreview.net/pdf?id=BZ5a1r-kVsf) | 2024        | —                                                            |
+| [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning  **(DINO-WM)**](https://arxiv.org/pdf/2411.04983) | 2024        | [![Star](https://img.shields.io/github/stars/gaoyuezhou/dino_wm.svg?style=social&label=Star)](https://github.com/gaoyuezhou/dino_wm) |
+| [Revisiting Feature Prediction for Learning Visual Representations from Video  **(V-JEPA)**](https://arxiv.org/pdf/2404.08471) | 2024        | [![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)](https://github.com/facebookresearch/jepa) |
+| [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning  **(V-JEPA2)**](https://arxiv.org/pdf/2506.09985) | 2025        | [![Star](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Star)](https://github.com/facebookresearch/vjepa2) |
 
 ### LLM/MLLM
 
+| Title                                                        | Pub. & Date  | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| [Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning  **(LLM-DM)**](https://proceedings.neurips.cc/paper_files/paper/2023/file/f9f54762cbb4fe4dbffdd4f792c31221-Paper-Conference.pdf) | NeurIPS 2023 | [![Star](https://img.shields.io/github/stars/GuanSuns/LLMs-World-Models-for-Planning.svg?style=social&label=Star)](https://github.com/GuanSuns/LLMs-World-Models-for-Planning) |
+| [WorldGPT: Empowering LLM as Multimodal World Model  **(WorldGPT)**](https://dl.acm.org/doi/pdf/10.1145/3664647.3681488) | ACM MM 2024  | [![Star](https://img.shields.io/github/stars/DCDmllm/WorldGPT.svg?style=social&label=Star)](https://github.com/DCDmllm/WorldGPT) |
+| [Text2World: Benchmarking Large Language Models for Symbolic World Model Generation  **(Text2World)**](https://arxiv.org/pdf/2502.13092) | ACL 2025     | [![Star](https://img.shields.io/github/stars/Aaron617/text2world.svg?style=social&label=Star)](https://github.com/Aaron617/text2world) |
+
+### Interactive 3D environment
+
 | Title                                                        | Pub. & Date | Code/Project URL                                             |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| [CALYPSO: LLMs as Dungeon Master's Assistants](https://arxiv.org/pdf/2308.07540) | AAAI 2023   | [![Star](https://img.shields.io/github/stars/northern-lights-province/calypso-aiide-artifact.svg?style=social&label=Star)](https://github.com/northern-lights-province/calypso-aiide-artifact) |
-| [WorldGPT: Empowering LLM as Multimodal World Model](https://dl.acm.org/doi/pdf/10.1145/3664647.3681488) | ACM MM 2024 | [![Star](https://img.shields.io/github/stars/DCDmllm/WorldGPT.svg?style=social&label=Star)](https://github.com/DCDmllm/WorldGPT) |
-| [Text2World: Benchmarking Large Language Models for Symbolic World Model Generation](https://arxiv.org/pdf/2502.13092) | ACL 2025    | [![Star](https://img.shields.io/github/stars/Aaron617/text2world.svg?style=social&label=Star)](https://github.com/Aaron617/text2world) |
-
-### **Interactive 3D environment** 
-
-| Title                                                        | Pub. & Date | Code/Project URL                                             |
-| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| [Interactive 3D Scene Generation from a Single Image](https://arxiv.org/pdf/2308.07540) | CVPR 2025   | [![Star](https://img.shields.io/github/stars/KovenYu/WonderWorld.svg?style=social&label=Star)](https://github.com/KovenYu/WonderWorld) |
-| [Matrix-3D: Omnidirectional Explorable 3D World Generation](https://arxiv.org/pdf/2508.08086) | 2025        | [![Star](https://img.shields.io/github/stars/SkyworkAI/Matrix-3D.svg?style=social&label=Star)](https://github.com/SkyworkAI/Matrix-3D) |
-| [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels](https://arxiv.org/pdf/2507.21809) | 2025        | [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) |
+| [Interactive 3D Scene Generation from a Single Image  **(WonderWorld)**](https://arxiv.org/pdf/2308.07540) | CVPR 2025   | [![Star](https://img.shields.io/github/stars/KovenYu/WonderWorld.svg?style=social&label=Star)](https://github.com/KovenYu/WonderWorld) |
+| [Matrix-3D: Omnidirectional Explorable 3D World Generation  **(Matrix-3D)**](https://arxiv.org/pdf/2508.08086) | 2025        | [![Star](https://img.shields.io/github/stars/SkyworkAI/Matrix-3D.svg?style=social&label=Star)](https://github.com/SkyworkAI/Matrix-3D) |
+| [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels  **(Hunyuan World)**](https://arxiv.org/pdf/2507.21809) | 2025        | [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) |
 
 ### 
 
@@ -211,7 +218,7 @@ If this list helps your research, please ⭐ and cite:
 
 ## 5 Applications of World Models
 
-### 5.1 Game Intelligence  
+### 5.1 Game Intelligence
 
 | Title                                                        | Pub. & Date | Code / Project URL                                           |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
