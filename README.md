@@ -111,7 +111,22 @@ If this list helps your research, please ⭐ and cite:
 | [Matrix-3D: Omnidirectional Explorable 3D World Generation  **(Matrix-3D)**](https://arxiv.org/pdf/2508.08086) | 2025      | [![Star](https://img.shields.io/github/stars/SkyworkAI/Matrix-3D.svg?style=social&label=Star)](https://github.com/SkyworkAI/Matrix-3D) |
 | [HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels  **(Hunyuan World)**](https://arxiv.org/pdf/2507.21809) | 2025      | [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0) |
 
-### 
+
+
+### Application
+
+| Title                                                        | Pub.&Date | Code/Project URL                                             |
+| ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
+| [DayDreamer: World Models for Physical Robot Learning  **(DayDreamer)**](https://arxiv.org/pdf/2206.14176) | 2023      | [![Star](https://img.shields.io/github/stars/danijar/daydreamer.svg?style=social&label=Star)](https://github.com/danijar/daydreamer) |
+| [Generative Agents: Interactive Simulacra of Human Behavior  **(Generative Agents)**](https://arxiv.org/pdf/2304.03442) | UIST 2023 | [![Star](https://img.shields.io/github/stars/joonspk-research/generative_agents.svg?style=social&label=Star)](https://github.com/joonspk-research/generative_agents) |
+| [GAIA-1: A generative world model for autonomous driving  **(GAIA-1)**](https://arxiv.org/pdf/2309.17080) | 2023      | [![Website](https://img.shields.io/badge/Website-9cf)](https://anthonyhu.github.io/gaia1) |
+| [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving  **(OccWorld)**](https://arxiv.org/pdf/2311.16038) | ECCV 2024 | [![Star](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star)](https://github.com/wzzheng/OccWorld) |
+| [Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation  **(GR1)**](https://arxiv.org/pdf/2312.13139) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/bytedance/GR-1.svg?style=social&label=Star)](https://github.com/bytedance/GR-1) |
+| [DriveDreamer: Towards real-world-driven world models  **(DriveDreamer)**](https://arxiv.org/pdf/2309.09777) | ECCV 2024 | [![Star](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer) |
+| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving  **(Drive-WM)**](https://arxiv.org/abs/2311.17918) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM) |
+| [Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)  **(Think2Drive)**](https://arxiv.org/abs/2311.17918) | ECCV 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://thinklab-sjtu.github.io/CornerCaseRepo/) |
+
+
 
 ## 3 Implicit Representation of the External World
 
@@ -305,7 +320,7 @@ If this list helps your research, please ⭐ and cite:
 | [HPTR: Real-time motion prediction via heterogeneous polyline transformer with relative pose encoding](https://arxiv.org/abs/2310.12970) | NeurIPS 2023 | [![Star](https://img.shields.io/github/stars/zhejz/HPTR.svg?style=social&label=Star)](https://github.com/zhejz/HPTR) |
 | [MotionDiffuser: Controllable multi-agent motion prediction using diffusion](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_MotionDiffuser_Controllable_Multi-Agent_Motion_Prediction_Using_Diffusion_CVPR_2023_paper.pdf) | CVPR 2023 | — |
 | [Tokenize the world into object-level knowledge to address long-tail events in autonomous driving](https://arxiv.org/abs/2407.00959) | arXiv 2024 | — |
-| [GAIA-1: A generative world model for autonomous driving](https://arxiv.org/abs/2309.17080) | arXiv 2023 | — |
+| [GAIA-1: A generative world model for autonomous driving](https://arxiv.org/pdf/2309.17080) | arXiv 2023             | [Website](https://anthonyhu.github.io/gaia1)                 |
 | [DriveDreamer: Towards real-world-driven world models for autonomous driving](https://arxiv.org/abs/2309.09777) | ECCV 2024 | [![Star](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer) |
 | [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM) |
 | [OccWorld: Learning a 3D occupancy world model for autonomous driving](https://arxiv.org/abs/2311.16038) | ECCV 2024 | [![Star](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star)](https://github.com/wzzheng/OccWorld) |
