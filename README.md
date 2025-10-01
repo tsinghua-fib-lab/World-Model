@@ -28,11 +28,11 @@ If this list helps your research, please ⭐ and cite:
 
 ## Table of Contents 🍃
 
-* [Roadmap of world models in deep learning era](# Roadmap of world models in deep learning era)
-    * [Model-based RL](# Model-based RL)
-    * [Self-supervised learning](# Self-supervised learning)
-    * [LLM/MLLM](# LLM/MLLM)
-    * [Interactive 3D environment](# Interactive 3D environment)
+* [Roadmap of world models in deep learning era](#Roadmap-of-world-models-in-deep-learning-era)
+    * [Model-based RL](#Model-based-RL)
+    * [Self-supervised learning](#Self-supervised-learning)
+    * [LLM/MLLM](#LLM/MLLM)
+    * [Interactive 3D environment](#Interactive-3D-environment)
 
 * [3 Implicit Representation of the External World](#3-implicit-representation-of-the-external-world)
     * [3.1 World Model in Decision Making](#31-world-model-decision-making)
