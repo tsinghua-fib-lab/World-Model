@@ -35,11 +35,11 @@ If this list helps your research, please ⭐ and cite:
     * [Interactive 3D environment](#Interactive-3D-environment)
 
 * [3 Implicit Representation of the External World](#3-implicit-representation-of-the-external-world)
-    * [3.1 World Model in Decision Making](#31-world-model-decision-making)
-    * [3.2 World Knowledge Learned by Models](#32-world-knowledge-learned)
+    * [3.1 World Model in Decision Making](#31-World-Model-in-Decision-Making)
+    * [3.2 World Knowledge Learned by Models](#32-World-Knowledge-Learned-by-Models)
 * [4 Future Prediction of the Physical World](#4-future-predictions-of-the-external-world)
-    * [4.1 World Model as Video Generation](#41-what-to-predict)
-    * [4.2 World Model as Embodied Environment](#42-how-to-predict)
+    * [4.1 World Model as Video Generation](#41-World-Model-as-Video-Generation)
+    * [4.2 World Model as Embodied Environment](#42-World-Model-as-Embodied-Environment)
 * [5 Applications of World Models](#5-applications-of-world-models)
     * [5.1 Game Intelligence](#51-Game-Intelligence)
     * [5.2 Embodied Intelligence](#52-Embodied-Intelligence)
@@ -115,16 +115,32 @@ If this list helps your research, please ⭐ and cite:
 
 ### Application
 
-| Title                                                        | Pub.&Date | Code/Project URL                                             |
-| ------------------------------------------------------------ | --------- | ------------------------------------------------------------ |
-| [DayDreamer: World Models for Physical Robot Learning  **(DayDreamer)**](https://arxiv.org/pdf/2206.14176) | 2023      | [![Star](https://img.shields.io/github/stars/danijar/daydreamer.svg?style=social&label=Star)](https://github.com/danijar/daydreamer) |
-| [Generative Agents: Interactive Simulacra of Human Behavior  **(Generative Agents)**](https://arxiv.org/pdf/2304.03442) | UIST 2023 | [![Star](https://img.shields.io/github/stars/joonspk-research/generative_agents.svg?style=social&label=Star)](https://github.com/joonspk-research/generative_agents) |
-| [GAIA-1: A generative world model for autonomous driving  **(GAIA-1)**](https://arxiv.org/pdf/2309.17080) | 2023      | [![Website](https://img.shields.io/badge/Website-9cf)](https://anthonyhu.github.io/gaia1) |
-| [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving  **(OccWorld)**](https://arxiv.org/pdf/2311.16038) | ECCV 2024 | [![Star](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star)](https://github.com/wzzheng/OccWorld) |
-| [Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation  **(GR1)**](https://arxiv.org/pdf/2312.13139) | ICLR 2024 | [![Star](https://img.shields.io/github/stars/bytedance/GR-1.svg?style=social&label=Star)](https://github.com/bytedance/GR-1) |
-| [DriveDreamer: Towards real-world-driven world models  **(DriveDreamer)**](https://arxiv.org/pdf/2309.09777) | ECCV 2024 | [![Star](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer) |
-| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving  **(Drive-WM)**](https://arxiv.org/abs/2311.17918) | CVPR 2024 | [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM) |
-| [Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)  **(Think2Drive)**](https://arxiv.org/abs/2311.17918) | ECCV 2024 | [![Website](https://img.shields.io/badge/Website-9cf)](https://thinklab-sjtu.github.io/CornerCaseRepo/) |
+| Title                                                        | Pub.&Date           | Code/Project URL                                             |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ |
+| [DayDreamer: World Models for Physical Robot Learning  **(DayDreamer)**](https://arxiv.org/pdf/2206.14176) | 2023                | [![Star](https://img.shields.io/github/stars/danijar/daydreamer.svg?style=social&label=Star)](https://github.com/danijar/daydreamer) |
+| [Generative Agents: Interactive Simulacra of Human Behavior  **(Generative Agents)**](https://arxiv.org/pdf/2304.03442) | UIST 2023           | [![Star](https://img.shields.io/github/stars/joonspk-research/generative_agents.svg?style=social&label=Star)](https://github.com/joonspk-research/generative_agents) |
+| [GAIA-1: A generative world model for autonomous driving  **(GAIA-1)**](https://arxiv.org/pdf/2309.17080) | 2023                | [![Website](https://img.shields.io/badge/Website-9cf)](https://anthonyhu.github.io/gaia1) |
+| [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving  **(OccWorld)**](https://arxiv.org/pdf/2311.16038) | ECCV 2024           | [![Star](https://img.shields.io/github/stars/wzzheng/OccWorld.svg?style=social&label=Star)](https://github.com/wzzheng/OccWorld) |
+| [Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation  **(GR1)**](https://arxiv.org/pdf/2312.13139) | ICLR 2024           | [![Star](https://img.shields.io/github/stars/bytedance/GR-1.svg?style=social&label=Star)](https://github.com/bytedance/GR-1) |
+| [DriveDreamer: Towards real-world-driven world models  **(DriveDreamer)**](https://arxiv.org/pdf/2309.09777) | ECCV 2024           | [![Star](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Star)](https://github.com/JeffWang987/DriveDreamer) |
+| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving  **(Drive-WM)**](https://arxiv.org/pdf/2311.17918) | CVPR 2024           | [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM) |
+| [Think2Drive: Efficient Reinforcement Learning by Thinking in Latent World Model for Quasi-Realistic Autonomous Driving (in CARLA-v2)  **(Think2Drive)**](https://arxiv.org/pdf/2311.17918) | ECCV 2024           | [![Website](https://img.shields.io/badge/Website-9cf)](https://thinklab-sjtu.github.io/CornerCaseRepo/) |
+| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving  **(Drive-WM)**](https://arxiv.org/pdf/2311.17918) | CVPR 2024           | [![Star](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Star)](https://github.com/BraveGroup/Drive-WM) |
+| [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving  **(GaussianWorld)**](https://arxiv.org/pdf/2412.10373) | CVPR 2025           | [![Star](https://img.shields.io/github/stars/zuosc19/GaussianWorld.svg?style=social&label=Star)](https://github.com/zuosc19/GaussianWorld) |
+| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving  **(Drive-WM)**](https://arxiv.org/pdf/2311.17918) | 2025                | [![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/gaia-2/) |
+| [World and Human Action Models towards Gameplay Ideation  **(WHAM)**](https://www.nature.com/articles/s41586-025-08600-3.pdf) | Nature 2025         | —                                                            |
+| [Mineworld: a Real-time and Open-source Interactive World Model on Minecraft  **(MineWorld)**](https://arxiv.org/pdf/2504.08388?) | 2025                | [![Star](https://img.shields.io/github/stars/microsoft/MineWorld.svg?style=social&label=Star)](https://github.com/microsoft/MineWorld) |
+| [GameFactory: Creating New Games with Generative Interactive Videos  **(Gamefactory)**](https://arxiv.org/pdf/2501.08325) | ICCV 2025           | [![Star](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Star)](https://github.com/KwaiVGI/GameFactory) |
+| [AgentSociety: Large-scale simulation of LLM-driven generative agents  **(AgentSociety)**](https://arxiv.org/pdf/2502.08691) | ACL 2025, COLM 2025 | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/AgentSociety.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/AgentSociety) |
+| [EnerVerse-AC: Envisioning Embodied Environments with Action Condition  **(EnerVerse)**](https://arxiv.org/pdf/2505.09723) | 2025                | [![Star](https://img.shields.io/github/stars/AgibotTech/EnerVerse-AC.svg?style=social&label=Star)](https://github.com/AgibotTech/EnerVerse-AC) |
+| [GR-3 Technical Report  **(GR3)**](https://arxiv.org/pdf/2507.15493) | 2025                | [![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/gaia-2/) |
+| [Aether: Geometric-Aware Unified World Modeling  **(Aether)**](https://arxiv.org/pdf/2503.18945) | 2025                | [![Star](https://img.shields.io/github/stars/InternRobotics/Aether.svg?style=social&label=Star)](https://github.com/InternRobotics/Aether) |
+| [GWM: Towards Scalable Gaussian World Models for Robotic Manipulation  **(GWM)**](https://arxiv.org/pdf/2508.17600) | ICCV 2025           | [![Website](https://img.shields.io/badge/Website-9cf)](https://gaussian-world-model.github.io/) |
+| [AirScape: An Aerial Generative World Model with Motion Controllability  **(AirScape)**](https://arxiv.org/pdf/2507.08885) | ACM MM 2025         | [![Website](https://img.shields.io/badge/Website-9cf)](https://embodiedcity.github.io/AirScape/) |
+| [RoboScape: Physics-informed Embodied World Model  **(RoboScape)**](https://arxiv.org/pdf/2506.23135) | 2025                | [![Star](https://img.shields.io/github/stars/tsinghua-fib-lab/RoboScape.svg?style=social&label=Star)](https://github.com/tsinghua-fib-lab/RoboScape) |
+| [DreamGen: Unlocking Generalization in Robot Learning through Video World Models  **(DreamGen)**](https://arxiv.org/pdf/2505.12705) | 2025                | [![Star](https://img.shields.io/github/stars/NVIDIA/GR00T-Dreams.svg?style=social&label=Star)](https://github.com/NVIDIA/GR00T-Dreams) |
+| [Matrix-Game: Interactive World Foundation Model  **(Matrix-Game)**](https://arxiv.org/pdf/2506.18701) | 2025                | [![Star](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game.svg?style=social&label=Star)](https://github.com/SkyworkAI/Matrix-Game) |
+| [Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation  **(Genie Envisioner)**](https://arxiv.org/abs/2508.05635v1) | 2025                | [![Star](https://img.shields.io/github/stars/AgibotTech/Genie-Envisioner.svg?style=social&label=Star)](https://github.com/AgibotTech/Genie-Envisioner) |
 
 
 
@@ -300,7 +316,7 @@ If this list helps your research, please ⭐ and cite:
 
 ### 5.3 Urban Intelligence
 
-##### Autonomous Driving
+#### Autonomous Driving
 
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
@@ -333,7 +349,7 @@ If this list helps your research, please ⭐ and cite:
 | [UrbanWorld: An urban world model for 3D city generation](https://arxiv.org/abs/2407.11965) | arXiv 2024 | [![Star](https://img.shields.io/github/stars/Urban-World/UrbanWorld.svg?style=social&label=Star)](https://github.com/Urban-World/UrbanWorld) |
 | [Streetscapes: Large-scale consistent street view generation using autoregressive video diffusion](https://arxiv.org/pdf/2407.13759) | SIGGRAPH 2024 | [Website](https://arxiv.org/pdf/2407.13759) |
 
-##### Autonomous Logistics & Urban Analytics
+#### Autonomous Logistics & Urban Analytics
 
 | Title | Pub. & Date | Code / Project URL |
 |---|---|---|
@@ -341,7 +357,7 @@ If this list helps your research, please ⭐ and cite:
 | [Towards Autonomous Micromobility through Scalable Urban Simulation](https://arxiv.org/abs/2505.00690) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/metadriverse/urban-sim.svg?style=social&label=Star)](https://github.com/metadriverse/urban-sim) |
 | [Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation](https://arxiv.org/abs/2501.06693) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/Vid2Sim/Vid2Sim.svg?style=social&label=Star)](https://github.com/Vid2Sim/Vid2Sim) |
 | [CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos](https://arxiv.org/abs/2411.17820) | CVPR 2025 | [![Star](https://img.shields.io/github/stars/ai4ce/CityWalker.svg?style=social&label=Star)](https://github.com/ai4ce/CityWalker) |
-| [AirScape: An Aerial Generative World Model with Motion Controllability](https://arxiv.org/abs/2507.08885) | ACM MM 2025 | — |
+| [AirScape: An Aerial Generative World Model with Motion Controllability  **(AirScape)**](https://arxiv.org/pdf/2507.08885) | ACM MM 2025 | [![Website](https://img.shields.io/badge/Website-9cf)](https://embodiedcity.github.io/AirScape/) |
 | [CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory](https://arxiv.org/abs/2505.05622) | ACL 2025 | [![Star](https://img.shields.io/github/stars/EmbodiedCity/CityNavAgent.code.svg?style=social&label=Star)](https://github.com/EmbodiedCity/CityNavAgent.code) |
 | [CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space](https://arxiv.org/abs/2502.12532) | EMNLP 2025 | [![Star](https://img.shields.io/github/stars/BiluYong/CityEQA.svg?style=social&label=Star)](https://github.com/BiluYong/CityEQA) |
 | [UrbanVideo-Bench: Benchmarking Vision-Language Models on Embodied Intelligence with Video Data in Urban Spaces](https://arxiv.org/abs/2503.06157) | ACL 2025 | [![Star](https://img.shields.io/github/stars/EmbodiedCity/UrbanVideo-Bench.code.svg?style=social&label=Star)](https://github.com/EmbodiedCity/UrbanVideo-Bench.code) |
