@@ -18,11 +18,15 @@ Email: dingjt15@tsinghua.org.cn
 If this list helps your research, please ⭐ and cite:
 
 ```bibtex
-@article{ding2025worldmodels,
+@article{ding2025understanding,
   title={Understanding World or Predicting Future? A Comprehensive Survey of World Models},
-  author={Ding, Jingtao and Zhang, Yunke and Shang, Yu and Zhang, Yuheng and Zong, Zefang and Feng, Jie and Yuan, Yuan and Su, Hongyu and Li, Nian and Sukiennik, Nicholas and Xu, Fengli and Li, Yong},
+  author={Ding, Jingtao and Zhang, Yunke and Shang, Yu and Zhang, Yuheng and Zong, Zefang and Feng, Jie and Yuan, Yuan and Su, Hongyuan and Li, Nian and Sukiennik, Nicholas and others},
   journal={ACM Computing Surveys},
-  year={2025}
+  volume={58},
+  number={3},
+  pages={1--38},
+  year={2025},
+  publisher={ACM New York, NY}
 }
 ```
 
