@@ -2,7 +2,7 @@
 
 A curated list of awesome resources on World Models, based on the comprehensive survey "Understanding World or Predicting Future? A Comprehensive Survey of World Models".
 
-![Loading roadmap](asset/roadmap.png "outline")
+![Loading roadmap](asset/structure.png "outline")
 
 ## News🔥
 
@@ -10,6 +10,7 @@ A curated list of awesome resources on World Models, based on the comprehensive 
 * **[2025/06/13]** Our survey paper "Understanding World or Predicting Future? A Comprehensive Survey of World Models" has been accepted by [ACM Computing Surveys](https://dl.acm.org/doi/abs/10.1145/3746449).
 * **[2025/06/25]** Second version of our survey is available on [arXiv](https://arxiv.org/abs/2411.14499).
 * **[2025/07/18]** Initial release of the Awesome-World-Model GitHub repository.
+* **[2025/11/18]** Third version of our survey is available on  [arXiv](https://arxiv.org/abs/2411.14499).
 
 ## Contact
 If you have any suggestions or find our work helpful, feel free to contact us  
@@ -52,7 +53,7 @@ If this list helps your research, please ⭐ and cite:
 
 ## Roadmap of world models in deep learning era
 
-![Loading roadmap](asset/roadmap.png "outline")
+![Loading roadmap](asset/roadmap.png "roadmap")
 
 ### Model-based RL
 
